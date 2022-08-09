@@ -1,0 +1,13 @@
+C:\Windows\SysNative\WinMetadata\Windows.Devices.winmd	637671440653038154
+C:\Windows\SysNative\WinMetadata\Windows.Foundation.winmd	637671440653038154
+C:\Windows\SysNative\WinMetadata\Windows.Media.winmd	637671440653663151
+C:\Windows\SysNative\WinMetadata\Windows.Graphics.winmd	637671440653350607
+C:\Program Files\WindowsApps\4517becsandeepa.DBMSOverview_1.1.0.0_neutral__y0sr5c99w3d6e\sql.exe	637947981267553621
+C:\Windows\SysNative\WinMetadata\Windows.UI.Xaml.winmd	637671440655694557
+C:\Windows\SysNative\WinMetadata\Windows.ApplicationModel.winmd	637671440652413288
+C:\Windows\SysNative\WinMetadata\Windows.UI.winmd	637671440654600739
+C:\Windows\SysNative\WinMetadata\Windows.Globalization.winmd	637671440653194497
+C:\Windows\SysNative\WinMetadata\Windows.System.winmd	637671440654288194
+C:\Program Files\WindowsApps\WAGmob.MySQLSQLDBMS-simpleNeasyAppbyWAGmob_1.5.0.2_neutral__cjas0z9z8ytxm\MySQLSQLandDBMS.exe	637947980529433605
+C:\Windows\SysNative\WinMetadata\Windows.Storage.winmd	637671440654132030
+C:\Windows\SysNative\WinMetadata\Windows.Web.winmd	637671440655850834

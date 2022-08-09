@@ -1,0 +1,2 @@
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22042.161.0_x64__8wekyb3d8bbwe\RuntimeConfiguration.winmd	0
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22042.161.0_x64__8wekyb3d8bbwe\YourPhone.ShoulderTap.Client.WinRT.winmd	0

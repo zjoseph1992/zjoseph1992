@@ -1,0 +1,522 @@
+AMD Ryzen 3 5300U with Radeon Graphics         
+
+Free 2627 MB / Total 7542 MB
+Windows 11 Version 2009 64bit
+(1280 x 720) x 1 number
+url p: "C:\Program Files (x86)\BlueStacks X\BlueStacks X.exe" -open "%1"
+app path: C:/Program Files (x86)/BlueStacks X
+config version: 
+app version:0.17.10.6
+
+[Info]  2022-07-30 11:12:29.498  [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+[Info]  2022-07-30 11:12:29.498  [app run cmd]:  "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2022-07-30 11:12:29.498  [booting time]:[main] "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2022-07-30 11:12:29.498  [application product type name11]  "nxt"
+[Info]  2022-07-30 11:12:29.498  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 11:12:29.498  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 11:12:30.439  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 11:12:30.439  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 11:12:30.439  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 11:12:30.439  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 11:12:30.439  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 11:12:30.439  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 11:12:30.439  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 11:12:30.454  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 11:12:30.457  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 11:12:30.486  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Warn]  2022-07-30 11:12:30.486  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_instance_clicked()
+[Warn]  2022-07-30 11:12:30.486  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked()
+[Warn]  2022-07-30 11:12:30.501  QFSFileEngine::open: No file name specified
+[Warn]  2022-07-30 11:12:30.533  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 11:12:30.548  QFSFileEngine::open: No file name specified
+[Info]  2022-07-30 11:12:30.557  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 11:12:30.564  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 11:12:30.580  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 11:12:30.596  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Warn]  2022-07-30 11:12:30.611  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-07-30 11:12:30.674  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 11:12:30.690  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 11:12:30.690  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 11:12:30.690  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 11:12:30.690  "app version: 0.17.10.6"
+[Info]  2022-07-30 11:12:30.705  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 11:12:30.705  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Warn]  2022-07-30 11:12:30.768  QFSFileEngine::open: No file name specified
+[Warn]  2022-07-30 11:12:30.878  QFSFileEngine::open: No file name specified
+[Info]  2022-07-30 11:12:31.161  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 11:12:31.161  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 11:12:31.161  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Warn]  2022-07-30 11:12:31.176  QObject::moveToThread: Cannot move objects with a parent
+[Info]  2022-07-30 11:12:31.176  [GRM]Start Download Grm Files
+[Info]  2022-07-30 11:12:31.176  Number of threads created:  16
+[Info]  2022-07-30 11:12:31.176  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 11:12:31.176  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 11:12:31.176  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 11:12:31.176  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 11:12:31.176  [booting time][start]:[update][get version] url=  "https://x-api.bluestacks.com/get_version?oem=nxt"
+[Warn]  2022-07-30 11:12:31.207  QLayout: Attempting to add QLayout "" to BslMainWindow "BslMainWindow", which already has a layout
+[Info]  2022-07-30 11:12:31.259  [booting time][start]:  booting view
+[Info]  2022-07-30 11:12:31.270  [booting time][start]: [home webengine] set url
+[Info]  2022-07-30 11:12:31.319  domain test host:  "bsxplayer.bluestacks.com"
+[Info]  2022-07-30 11:12:31.320  [booting time][start]: [cs webengine] set url
+[Info]  2022-07-30 11:12:31.325  domain test host:  "xcs.bluestacks.com"
+[Info]  2022-07-30 11:12:31.325  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 11:12:31.326  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 11:12:31.327  [UserEdit Account logout] "{\n    \"refresh_token\": \"\",\n    \"uuid\": \"0010006f-00d9-00ca-0023-00b000000000\"\n}\n"
+[Info]  2022-07-30 11:12:31.327  [Account] Nowgg account updated.  ""
+[Info]  2022-07-30 11:12:31.328  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 11:12:31.328  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 11:12:31.329  [booting time][start]: [Get 64-bit app configuration] url=  "https://cloud.bluestacks.com/bs4/get_appcenter_app_action?client_ver=5.8.100.1001&oem=nxt"
+[Info]  2022-07-30 11:12:31.383  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 11:12:31.384  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 11:12:31.384  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 11:12:31.384  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 11:12:31.386  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 11:12:31.386  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 11:12:31.386  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 11:12:31.386  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 11:12:31.386  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 11:12:31.387  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 11:12:31.387  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 11:12:31.387  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 11:12:31.388  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 11:12:31.388  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 11:12:31.389  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 11:12:31.389  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 11:12:31.390  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 11:12:31.390  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 11:12:31.390  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 11:12:31.391  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 11:12:31.391  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 11:12:31.392  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 11:12:31.392  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 11:12:31.393  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 11:12:31.393  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 11:12:31.394  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 11:12:31.395  [SETTING] Play game strategy type is set to:  0
+[Info]  2022-07-30 11:12:31.397  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 11:12:31.397  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 11:12:31.398  [FEEDBACK] Getting remote category version...
+[Info]  2022-07-30 11:12:31.398  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 11:12:31.399  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 11:12:31.400  [HYPER_V] Machine Virtualization deceted VirtualBox
+[Info]  2022-07-30 11:12:31.400  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 11:12:31.401  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 11:12:31.401  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 11:12:31.447  [GRM]Grm File Downloaded Finished
+[Info]  2022-07-30 11:12:31.448  [booting time][start] Grm Config File Downloaded started
+[Info]  2022-07-30 11:12:31.467  load url:  "https://bsxplayer.bluestacks.com/home"
+[Info]  2022-07-30 11:12:31.482  [UPDATE]Using internet update
+[Info]  2022-07-30 11:12:31.482  [UPDATE]Returned local BS5 compatible true
+[Info]  2022-07-30 11:12:31.482  [UPDATE]Returned local BS5 version: "5.9.0.1061"
+[Info]  2022-07-30 11:12:31.498  [UPDATE]No remote BS5 version returned
+[Info]  2022-07-30 11:12:31.498  [UPDATE]Default image for virtual box is set to "Nougat32"
+[Info]  2022-07-30 11:12:31.498  [UPDATE]Default image for Hyper-V is set to "Nougat64"
+[Info]  2022-07-30 11:12:31.498  [UPDATE]Returned supported player images
+[Info]  2022-07-30 11:12:31.498  [booting time][finish]: [Get 64-bit app configuration] success
+[Info]  2022-07-30 11:12:31.658  [UPDATE]Empty download url in quick download.
+[Info]  2022-07-30 11:12:31.658  [BRIDGE]Bridge file found! Loading bridge file...
+[Info]  2022-07-30 11:12:31.659  [BRIDGE]Loading Bridge...  "C:/Users/jzamo/AppData/Local/BlueStacks X/Bridge/5.9.0.1061/HD-Bridge-Native.dll" with
+[Info]  2022-07-30 11:12:31.671  true...
+[Info]  2022-07-30 11:12:31.673  [BRIDGE] Bridge creatorStudio called with json of 
+{
+    "name": "enableCsEffect",
+    "params": {
+        "isEnable": true
+    }
+}
+
+[Info]  2022-07-30 11:12:31.673  Bridge -> update effect ins: "Nougat32"  uid: ""  token: ""
+[Info]  2022-07-30 11:12:31.717  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.supercell.clashofclans&use_cdn=true&oem=nxt"
+[Info]  2022-07-30 11:12:31.720  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.supercell.clashofclans&use_cdn=true&oem=nxt"
+[Info]  2022-07-30 11:12:31.741  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.supercell.clashofclans&use_cdn=true&oem=nxt"
+[Info]  2022-07-30 11:12:31.741  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.supercell.clashofclans&use_cdn=true&oem=nxt"
+[Info]  2022-07-30 11:12:31.743  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.supercell.clashofclans&use_cdn=true&oem=nxt"
+[Info]  2022-07-30 11:12:31.782  [STATS]STATS: {88648517-781f-450b-92dc-a47913ecd45f} -> 200
+[Info]  2022-07-30 11:12:31.797  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.supercell.clashofclans&use_cdn=true&oem=nxt"
+[Info]  2022-07-30 11:12:31.816  [BRIDGE]Bridge locale changed to "en-US"
+[Info]  2022-07-30 11:12:31.964  [Update] http callback:  "{\"success\":true,\"versionCode\":\"0.16.3.1\",\"downloadUrl\":\"https://cdn3.bluestacks.com/downloads/windows/bsx-update/0.16.3.1/BlueStacks%20X-Update_0.16.3.1.exe\",\"upgradeType\":0,\"updateTime\":\"2022-06-27 11:16:00.794000+00:00\"}"
+[Info]  2022-07-30 11:12:31.965  [booting time][finish]:[update][get version] request success
+[Info]  2022-07-30 11:12:31.967  [Update] can enter mainwindow.
+[Info]  2022-07-30 11:12:31.967  [Update] can enter mainwindow.
+[Info]  2022-07-30 11:12:32.295  [FEEDBACK] Getting remote category version finished
+[Info]  2022-07-30 11:12:32.295  [FEEDBACK] Remote category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2022-07-30 11:12:32.295  [FEEDBACK] Reading local category...
+[Info]  2022-07-30 11:12:32.295  [FEEDBACK] Local category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2022-07-30 11:12:32.295  [FEEDBACK] Category resolved finished with length of en of 8
+[Info]  2022-07-30 11:12:32.374  [GRM]Grm Config File Downloaded Finished
+[Info]  2022-07-30 11:12:32.374  [booting time][finish] Grm Config File Downloaded Finished
+[Info]  2022-07-30 11:12:32.624  [GRM]Grm Download System Finished with success
+[Info]  2022-07-30 11:12:32.640  [Account httpcallback]
+[Info]  2022-07-30 11:12:32.640  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2022-07-30 11:12:32.640  [booting time][finish]: [Download MyGame's Game Icon] success
+[Warn]  2022-07-30 11:12:32.708  "Wrong GlMode of AGA_DX ofcom.garena.game.ftmtw"
+[Warn]  2022-07-30 11:12:32.724  "Wrong GlMode of AGA_DX ofcom.firstmeetgame.fairytailtw.gp"
+[Info]  2022-07-30 11:12:32.766  [GRM] Reading Grm file finished with 142 ms
+[Info]  2022-07-30 11:12:32.766  [GRM] Grm resolved with 949
+[Info]  2022-07-30 11:12:32.782  [GRM] Grm resolved BS5 update with 1
+[Info]  2022-07-30 11:12:32.782  [GRM] No BSX GRM game detected
+[Info]  2022-07-30 11:12:32.782  [account result]:  false ,  ""
+[Info]  2022-07-30 11:12:32.782  Bridge -> update effect ins: "Nougat32"  uid: ""  token: ""
+[Warn]  2022-07-30 11:12:32.862  将根据已有的meta标签来设置缩放比例
+[Warn]  2022-07-30 11:12:32.862  将根据已有的meta标签来设置缩放比例
+[Warn]  2022-07-30 11:12:33.045  Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+[Info]  2022-07-30 11:12:33.063  [booting time][finish]: [home webengine] load success
+[Info]  2022-07-30 11:12:33.063  "[booting time][finish]:qwebChannelConnectCompleted"
+[Info]  2022-07-30 11:12:33.063  [postWebVersionInfo(BSX)]:
+ {
+    "data": {
+        "name": "BlueStacks X Version",
+        "stamp": "20220713-0435_prod",
+        "version": "bsxweb-v0.17.0.1004"
+    },
+    "event": "postWebVersionInfo",
+    "ga": {
+    },
+    "page": 0
+}
+
+[Info]  2022-07-30 11:12:33.063  "[booting time][start]:preClientConfigFetch"
+[Info]  2022-07-30 11:12:33.579  "[booting time][finish]:preClientConfigFetch"
+[Info]  2022-07-30 11:12:33.756  "[booting time][start]:preCoreDataLoad"
+[Info]  2022-07-30 11:12:33.756  "[booting time][start]:fetchFeatureApps"
+[Info]  2022-07-30 11:12:33.756  "[booting time][start]:fetchRotationApps"
+[Info]  2022-07-30 11:12:33.756  "[booting time][start]:fetchGameCenterApps"
+[Warn]  2022-07-30 11:12:33.772  Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+[Info]  2022-07-30 11:12:33.772  [booting time][finish]: [cs webengine] load success
+[Warn]  2022-07-30 11:12:33.772  Timer '<---qwebChannelConnect--->' does not exist
+[Info]  2022-07-30 11:12:33.772  "[booting time][finish]:qwebChannelConnect for Creator Hub"
+[Info]  2022-07-30 11:12:33.772  [postWebVersionInfo(CS)]:
+ {
+    "data": {
+        "name": "CS For Blusstacks X",
+        "stamp": "20220713-0425_prod",
+        "version": "bsxcsweb-v0.17.0.1004"
+    },
+    "event": "postWebVersionInfo",
+    "ga": {
+    },
+    "page": 0
+}
+
+[Info]  2022-07-30 11:12:33.772  "[booting time][start]:preClientConfigFetch for Creator Hub"
+[Info]  2022-07-30 11:12:34.289  [booting time][start]: GetModedGameList
+[Info]  2022-07-30 11:12:34.289  [CS] Get moded games request sent:  "https://xcs-api.now.gg/api/game/list?country=US&oem=nxt"
+[Info]  2022-07-30 11:12:34.289  [booting time][start]: GetModedGameList
+[Info]  2022-07-30 11:12:34.289  [CS] Get moded games request sent:  "https://xcs-api.now.gg/api/game/list?country=US&oem=nxt"
+[Info]  2022-07-30 11:12:34.321  "[booting time][finish]:preClientConfigFetch for Creator Hub"
+[Warn]  2022-07-30 11:12:34.336  Timer '<---https://xcs-api.now.gg/api/hubindex/getEffectList_get--->' already exists
+[Warn]  2022-07-30 11:12:34.336  Timer '<---showWebPage--->' does not exist
+[Info]  2022-07-30 11:12:34.336  "[booting time][start]:https://xcs-api.now.gg/api/hubindex/getHotList_get for Creator Hub"
+[Info]  2022-07-30 11:12:34.336  "[booting time][start]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Info]  2022-07-30 11:12:34.336  "[booting time][start]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Info]  2022-07-30 11:12:34.352  "[booting time][start]:https://cloud.bluestacks.com/api/getcountryforip_get for Creator Hub"
+[Info]  2022-07-30 11:12:34.352  "[booting time][start]:https://xcs-api.now.gg/api/game/list_get for Creator Hub"
+[Info]  2022-07-30 11:12:34.368  [booting time][finish]:  "cs web page"
+[Info]  2022-07-30 11:12:34.383  "[booting time][finish]:showWebPage for Creator Hub"
+[Info]  2022-07-30 11:12:34.399  "[booting time][finish]:https://cloud.bluestacks.com/api/getcountryforip_get for Creator Hub"
+[Info]  2022-07-30 11:12:34.566  "[booting time][finish]:fetchFeatureApps"
+[Info]  2022-07-30 11:12:34.886  [CS] Moded game list downloaded finished, resloving...
+[Info]  2022-07-30 11:12:34.886  [booting time][finish]: GetModedGameList
+[Info]  2022-07-30 11:12:34.886  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.886  [GAME_INSTALL] requesting package download url for "com.aqupepgames.projectpepe"
+[Info]  2022-07-30 11:12:34.886  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.886  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.886  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.886  [GAME_INSTALL] requesting package download url for "com.devsisters.ck"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.dts.freefiremax"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.dts.freefireth"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.igg.android.lordsmobile"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.king.candycrushsaga"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.kingsgroup.sos"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.scopely.headshot"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.tencent.ig"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] requesting package download url for "com.YoStarEN.Arknights"
+[Info]  2022-07-30 11:12:34.902  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 11:12:34.902  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 11:12:34.902  [CS] Moded game list resovled finished with length of  10
+[Info]  2022-07-30 11:12:34.902  [BEvent::ModedGameListChange]
+[Info]  2022-07-30 11:12:34.902  "com.aqupepgames.projectpepe"
+[Info]  2022-07-30 11:12:34.902  "com.devsisters.ck"
+[Info]  2022-07-30 11:12:34.917  "com.dts.freefiremax"
+[Info]  2022-07-30 11:12:34.917  "com.dts.freefireth"
+[Info]  2022-07-30 11:12:34.917  "com.igg.android.lordsmobile"
+[Info]  2022-07-30 11:12:34.917  "com.king.candycrushsaga"
+[Info]  2022-07-30 11:12:34.917  "com.kingsgroup.sos"
+[Info]  2022-07-30 11:12:34.917  "com.scopely.headshot"
+[Info]  2022-07-30 11:12:34.917  "com.tencent.ig"
+[Info]  2022-07-30 11:12:34.917  "com.YoStarEN.Arknights"
+[Info]  2022-07-30 11:12:34.933  "[booting time][finish]:https://xcs-api.now.gg/api/game/list_get for Creator Hub"
+[Info]  2022-07-30 11:12:34.949  "[booting time][finish]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.220  Timer '<---https://xcs-api.now.gg/api/hubindex/getEffectList_get--->' does not exist
+[Info]  2022-07-30 11:12:35.220  "[booting time][finish]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.269  "[booting time][finish]:https://xcs-api.now.gg/api/hubindex/getHotList_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.439  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 11:12:35.455  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.455  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.485  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.492  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.492  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.495  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.495  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.504  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.504  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.504  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.504  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.520  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.520  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.520  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.520  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.520  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.520  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.520  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.520  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 11:12:35.520  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 11:12:35.520  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 11:12:35.535  [GAME_INSTALL] Request responsed for "com.devsisters.ck"
+[Info]  2022-07-30 11:12:35.535  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 11:12:35.535  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.535  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.535  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.535  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.535  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.551  [GAME_INSTALL] Request responsed for "com.scopely.headshot"
+[Info]  2022-07-30 11:12:35.551  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.551  [GAME_INSTALL] Request responsed for "com.dts.freefiremax"
+[Info]  2022-07-30 11:12:35.551  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.dts.freefiremax/ApkPure/2.92.1/com.dts.freefiremax.xapk"
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 11:12:35.551  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.645  [GAME_INSTALL] Request responsed for "com.YoStarEN.Arknights"
+[Info]  2022-07-30 11:12:35.645  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.645  [GAME_INSTALL] Request responsed for "com.king.candycrushsaga"
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.645  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.king.candycrushsaga/Google/1.232.1.1/com.king.candycrushsaga.apk"
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 11:12:35.645  [GAME_INSTALL] Request responsed for "com.aqupepgames.projectpepe"
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.645  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.aqupepgames.projectpepe/ApkCombo/38.3.1/com.aqupepgames.projectpepe.xapk"
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 11:12:35.645  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.661  [GAME_INSTALL] Request responsed for "com.kingsgroup.sos"
+[Info]  2022-07-30 11:12:35.661  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 11:12:35.661  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.661  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.661  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.661  [GAME_INSTALL] Request responsed for "com.igg.android.lordsmobile"
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.669  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.igg.android.lordsmobile/ApkCombo/2.83/com.igg.android.lordsmobile.xapk"
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 11:12:35.669  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.677  [GAME_INSTALL] Request responsed for "com.dts.freefireth"
+[Info]  2022-07-30 11:12:35.677  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.dts.freefire/ApkPure/1.92.1/com.dts.freefireth.xapk"
+[Info]  2022-07-30 11:12:35.677  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.677  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.677  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.677  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.692  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 11:12:35.692  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 11:12:35.692  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 11:12:35.692  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:35.849  [GAME_INSTALL] Request responsed for "com.tencent.ig"
+[Info]  2022-07-30 11:12:35.849  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.tencent.ig/ApkPure/2.1.0/com.tencent.ig.xapk"
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 11:12:35.849  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 11:12:36.270  "[booting time][finish]:fetchGameCenterApps"
+[Info]  2022-07-30 11:12:38.755  "[booting time][finish]:fetchRotationApps"
+[Info]  2022-07-30 11:12:38.755  "[booting time][finish]:preCoreDataLoad"
+[Info]  2022-07-30 11:12:38.755  [booting time][finish]:  "home web page"
+[Info]  2022-07-30 11:12:38.755  [booting time][finish]:  booting view
+[Info]  2022-07-30 11:12:38.775  "[booting time][finish]:showWebPage"
+[Info]  2022-07-30 11:12:38.786  player url:  "https://cdn-bgp.bluestacks.com/BGP/us/screenshot_com.enixan.golden.hills.jpg"
+[Info]  2022-07-30 11:12:38.786  Using VLC Player..............................
+[Info]  2022-07-30 11:12:39.117  [DB] vlc init
+[Info]  2022-07-30 11:12:39.758  [enter mainwindow.......]
+[Info]  2022-07-30 11:12:58.640  {
+    "data": {
+        "action": "InstallCDN",
+        "action_value": "",
+        "apk_url": "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.enixan.golden.hills/Nowgg/18.15.5/com.enixan.golden.hills.apk",
+        "app_ver_modify_date": "",
+        "banner_type": "",
+        "banner_url": "https://cdn-bgp.bluestacks.com/BGP/us/banner_com.enixan.golden.hills.jpg",
+        "button_text": "Play Now",
+        "category": "Simulation",
+        "cloud_app_url": "https://now.gg/lp/enixan/9284/golden-hills?utm_source=now.gg-partner&utm_medium=client&utm_campaign=BlueStacksX&source=launcher",
+        "cloud_supported": true,
+        "cloud_type": "lp",
+        "cs_stats_info": {
+            "appPage": "home",
+            "banner_location": "home",
+            "section": "suggested_apps"
+        },
+        "download_url": "https://play.google.com/store/apps/details?id=com.enixan.golden.hills",
+        "full_hd_image": "https://cdn-bgp.bluestacks.com/BGP/us/screenshot_com.enixan.golden.hills.jpg",
+        "game_name": "Golden Hills: City Build Sim",
+        "game_play_preference": [
+            "cloud"
+        ],
+        "icon_url": "https://cloud.bluestacks.com/app/icon?pkg=com.enixan.golden.hills&use_cdn=true&w=300",
+        "id": "com.enixan.golden.hills_bsx_rotation_banner",
+        "image_url": null,
+        "isAppDetailAccessable": true,
+        "isBrowserAction": false,
+        "isInstallCDN": "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.enixan.golden.hills/Nowgg/18.15.5/com.enixan.golden.hills.apk",
+        "isOpenInBrowser": false,
+        "is_nowgg_login_required": true,
+        "order": 0,
+        "package_name": "com.enixan.golden.hills",
+        "parameter": "",
+        "platform_name": "Enixan Limited",
+        "position": 2,
+        "section": "ApkInstallation",
+        "showCloudBtn": true,
+        "showPcBtn": false,
+        "showPlayBtn": true,
+        "source": "bsx_rotation_banner",
+        "sticky": false,
+        "title": "Golden Hills: City Build Sim",
+        "video_url": ""
+    },
+    "event": "installOrPlayAppforVm",
+    "ga": {
+        "app_pkg": "com.enixan.golden.hills",
+        "banner_location": "STAT_HOME_PAGE_BANNER",
+        "event_type": "install_on_android",
+        "game_type": "android_game"
+    },
+    "page": 0
+}
+
+[Info]  2022-07-30 11:12:58.641  [insertLocalInfo]: "com.enixan.golden.hills"
+[Info]  2022-07-30 11:12:58.641  [insertCloudInfo]: "com.enixan.golden.hills"
+[Info]  2022-07-30 11:12:58.641  [MyGame]: Promotion action =  "InstallCDN" ""
+[Info]  2022-07-30 11:12:58.641  [MyGamePlugin play]: "" , "com.enixan.golden.hills" , 2 , 0
+[Info]  2022-07-30 11:12:58.642  [MyGamePlugin] Is it a special effect game? false
+[Info]  2022-07-30 11:12:58.795  [STATS]STATS: {aa6819b0-be87-4487-87e4-7dc6ec965b69} -> 200
+[Info]  2022-07-30 11:12:58.852  [STATS]STATS: {1336ba01-f56b-48e0-8645-a238ed8d05c7} -> 200
+[Info]  2022-07-30 11:13:03.523  [SSO Login]
+[Info]  2022-07-30 11:13:03.674  [STATS]STATS: {52843b04-47ce-4ac7-9b85-4765403ca9e1} -> 200
+[Info]  2022-07-30 11:13:04.738  [Account login]
+[Info]  2022-07-30 11:13:05.358  [Account httpcallback]
+[Info]  2022-07-30 11:13:07.699  [BServer receive]:  "-loginPageShow"
+[Info]  2022-07-30 11:13:07.726  [Account login]
+[Info]  2022-07-30 11:13:08.006  [STATS]STATS: {ec4a48c4-5b46-47c4-b83a-1667d33be238} -> 200
+[Info]  2022-07-30 11:13:08.500  [Account httpcallback]
+[Info]  2022-07-30 11:13:10.737  [Account login]
+[Info]  2022-07-30 11:13:11.015  [BServer receive]:  "-closeLogin"
+[Info]  2022-07-30 11:13:11.361  [Account httpcallback]
+[Warn]  2022-07-30 11:13:11.361  QObject::killTimer: Timers cannot be stopped from another thread
+[Info]  2022-07-30 11:13:16.295  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.android.vending.jpg"
+[Info]  2022-07-30 11:13:17.995  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.playstudios.popslots.jpg"
+[Info]  2022-07-30 11:13:18.197  banner download finished: "https___cdn-bgp.bluestacks.com_bgp_fullhd_com.playstudios.popslots.jpg"
+[Info]  2022-07-30 11:13:19.633  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.com2us.smon.normal.freefull.google.kr.android.common.jpg"
+[Info]  2022-07-30 11:13:22.475  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.funtomic.matchmasters.jpg"
+[Info]  2022-07-30 11:13:22.700  banner download finished: "https___cdn-bgp.bluestacks.com_bgp_fullhd_com.funtomic.matchmasters.jpg"
+[Info]  2022-07-30 11:13:27.028  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.lilithgames.xgame.gp.jpg"
+[Info]  2022-07-30 11:13:27.498  banner download finished: "https___cdn-bgp.bluestacks.com_bgp_fullhd_com.lilithgames.xgame.gp.jpg"
+[Info]  2022-07-30 11:13:30.143  player url:  ""
+[Info]  2022-07-30 11:13:30.178  player url:  ""
+[Warn]  2022-07-30 11:13:42.729  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-07-30 11:13:42.730  player url:  ""
+[Info]  2022-07-30 11:13:42.730  [DB] BSX is shutting down, Video is off.
+[Info]  2022-07-30 11:13:42.741  [BRIDGE] Requesting shutdown the instance "Nougat32" ,only in hidden true
+[Info]  2022-07-30 11:13:42.742  [BRIDGE] Requesting shutdown the instance "Nougat64" ,only in hidden true
+[Info]  2022-07-30 11:13:43.272  [STATS]STATS: {46227cd4-709d-4879-adbd-66cb2f77da24} -> 200
+[Warn]  2022-07-30 11:13:43.364  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.369  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.374  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.379  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.384  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.389  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.394  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.399  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.409  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.414  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.419  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.429  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.434  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.439  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.449  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 11:13:43.454  QObject::~QObject: Timers cannot be stopped from another thread
+[Info]  2022-07-30 11:13:43.624  [STATS]Data sent total: 6 , S = 6 , F = 0
+[Warn]  2022-07-30 11:13:43.787  Release of profile requested but WebEnginePage still not deleted. Expect troubles !

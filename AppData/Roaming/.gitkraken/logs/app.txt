@@ -1,0 +1,36 @@
+[2022-08-01T15:47:49.003Z] Detecting Git and Git LFS: started
+[2022-08-01T15:47:49.455Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"22d71191-c3e5-41a9-985e-712570712525","type":"RELEASE_NOTES"}]}: started.
+[2022-08-01T15:47:49.463Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"22d71191-c3e5-41a9-985e-712570712525","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=8
+[2022-08-01T15:47:50.206Z] Detected Git: git version 2.37.1.2.37.1
+[2022-08-01T15:47:50.210Z] Detected Git LFS: git-lfs/3.2.0 (GitHub; windows amd64; go 1.18.2).3.2.0
+[2022-08-01T15:47:50.224Z] Detecting Git and Git LFS: finished gk-log://duration?t=1221
+[2022-08-01T15:47:50.281Z] Set profile setting ["externalEditor"] to "VS Code": started.
+[2022-08-01T15:47:50.295Z] Set profile setting ["externalEditor"] to "VS Code": finished. gk-log://duration?t=14
+[2022-08-01T15:50:19.154Z] Add user profile: started.
+[2022-08-01T15:50:19.319Z] Set profile setting ["gpg","commitGpgSign"] to false: started.
+[2022-08-01T15:50:19.331Z] Set profile setting ["gpg","commitGpgSign"] to false: finished. gk-log://duration?t=12
+[2022-08-01T15:50:19.334Z] Set profile setting ["gpg","tagForceSignAnnotated"] to false: started.
+[2022-08-01T15:50:19.338Z] Set profile setting ["gpg","tagForceSignAnnotated"] to false: finished. gk-log://duration?t=4
+[2022-08-01T15:50:19.342Z] Add user profile: finished. gk-log://duration?t=188
+[2022-08-01T15:50:55.810Z] Set profile setting ["organizationId"] to null: started.
+[2022-08-01T15:50:55.816Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=6
+[2022-08-01T15:50:56.596Z] Set profile setting ["editor","fontFamily"] to "Consolas": started.
+[2022-08-01T15:50:56.609Z] Set profile setting ["editor","fontFamily"] to "Consolas": finished. gk-log://duration?t=13
+[2022-08-01T15:50:56.612Z] Set profile setting ["cli","fontFamily"] to "Consolas": started.
+[2022-08-01T15:50:56.616Z] Set profile setting ["cli","fontFamily"] to "Consolas": finished. gk-log://duration?t=4
+[2022-08-01T16:02:04.889Z] Verify SSH key for GitHub: started.
+[2022-08-01T16:02:04.898Z] Verify SSH key for GitHub: finished. gk-log://duration?t=9
+[2022-08-01T16:03:02.190Z] Set profile setting ["organizationId"] to "62e7f9137167000052af1db5": started.
+[2022-08-01T16:03:02.203Z] Set profile setting ["organizationId"] to "62e7f9137167000052af1db5": finished. gk-log://duration?t=13
+[2022-08-01T16:03:55.062Z] Clone repository https://github.com/zjoseph1992/CIS106-Joseph-Zamora.git into C:\Users\jzamo\Documents\SideSync\CIS106-Joseph-Zamora: started.
+[2022-08-01T16:03:55.068Z] Set profile setting ["repoInit","lastRepoInitPath"] to "C:\\Users\\jzamo\\Documents\\SideSync": started.
+[2022-08-01T16:03:55.073Z] Set profile setting ["repoInit","lastRepoInitPath"] to "C:\\Users\\jzamo\\Documents\\SideSync": finished. gk-log://duration?t=5
+[2022-08-01T16:03:55.078Z] Set profile setting ["projectGroupsFrecencyMetadata","C:/Users/jzamo/Documents/SideSync"] to {"id":"project-group-C:/Users/jzamo/Documents/SideSync","timestamps":[1659369835077],"total":1}: started.
+[2022-08-01T16:03:55.091Z] Set profile setting ["projectGroupsFrecencyMetadata","C:/Users/jzamo/Documents/SideSync"] to {"id":"project-group-C:/Users/jzamo/Documents/SideSync","timestamps":[1659369835077],"total":1}: finished. gk-log://duration?t=13
+[2022-08-01T16:03:55.145Z] Set profile setting ["hostingServiceFrecencyMetadata","github"] to {"id":"github","timestamps":[1659369835144],"total":1}: started.
+[2022-08-01T16:03:55.154Z] Set profile setting ["hostingServiceFrecencyMetadata","github"] to {"id":"github","timestamps":[1659369835144],"total":1}: finished. gk-log://duration?t=9
+[2022-08-01T16:03:55.863Z] Clone repository https://github.com/zjoseph1992/CIS106-Joseph-Zamora.git into C:\Users\jzamo\Documents\SideSync\CIS106-Joseph-Zamora: finished. gk-log://duration?t=801
+[2022-08-01T16:04:40.574Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"22d71191-c3e5-41a9-985e-712570712525","type":"RELEASE_NOTES"},{"id":"96f61cbc-1404-4481-8e0e-1d93909fb502","type":"NEW"}]}: started.
+[2022-08-01T16:04:40.584Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"22d71191-c3e5-41a9-985e-712570712525","type":"RELEASE_NOTES"},{"id":"96f61cbc-1404-4481-8e0e-1d93909fb502","type":"NEW"}]}: finished. gk-log://duration?t=10
+[2022-08-01T16:04:44.792Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"22d71191-c3e5-41a9-985e-712570712525","type":"RELEASE_NOTES"},{"id":"96f61cbc-1404-4481-8e0e-1d93909fb502","type":"NEW"},{"id":"151c508f-c6c1-45ab-ac89-1c18ef5cf33f","type":"NEW"}]}: started.
+[2022-08-01T16:04:44.799Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"22d71191-c3e5-41a9-985e-712570712525","type":"RELEASE_NOTES"},{"id":"96f61cbc-1404-4481-8e0e-1d93909fb502","type":"NEW"},{"id":"151c508f-c6c1-45ab-ac89-1c18ef5cf33f","type":"NEW"}]}: finished. gk-log://duration?t=7

@@ -1,0 +1,1170 @@
+AMD Ryzen 3 5300U with Radeon Graphics         
+
+Free 3031 MB / Total 7542 MB
+Windows 11 Version 2009 64bit
+(1280 x 720) x 1 number
+url p: "C:\Program Files (x86)\BlueStacks X\BlueStacks X.exe" -open "%1"
+app path: C:/Program Files (x86)/BlueStacks X
+config version: 
+app version:0.17.10.6
+
+[Info]  2022-07-30 08:00:44.687  [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+[Info]  2022-07-30 08:00:44.687  [app run cmd]:  "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2022-07-30 08:00:44.687  [booting time]:[main] "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2022-07-30 08:00:44.690  [application product type name11]  "nxt"
+[Info]  2022-07-30 08:00:44.692  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 08:00:44.711  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 08:00:45.857  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 08:00:45.860  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 08:00:45.862  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 08:00:45.864  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 08:00:45.866  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 08:00:45.869  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 08:00:45.871  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 08:00:45.873  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 08:00:45.876  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 08:00:45.892  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Warn]  2022-07-30 08:00:45.897  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_instance_clicked()
+[Warn]  2022-07-30 08:00:45.899  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked()
+[Warn]  2022-07-30 08:00:45.900  QFSFileEngine::open: No file name specified
+[Warn]  2022-07-30 08:00:45.962  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-07-30 08:00:45.976  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 08:00:45.984  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 08:00:46.004  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 08:00:46.009  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Warn]  2022-07-30 08:00:46.028  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-07-30 08:00:46.154  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 08:00:46.158  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 08:00:46.163  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.169  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.171  "app version: 0.17.10.6"
+[Info]  2022-07-30 08:00:46.174  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 08:00:46.176  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Warn]  2022-07-30 08:00:46.278  QFSFileEngine::open: No file name specified
+[Info]  2022-07-30 08:00:46.570  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 08:00:46.571  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 08:00:46.572  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Warn]  2022-07-30 08:00:46.579  QObject::moveToThread: Cannot move objects with a parent
+[Info]  2022-07-30 08:00:46.582  [GRM]Start Download Grm Files
+[Info]  2022-07-30 08:00:46.583  Number of threads created:  16
+[Info]  2022-07-30 08:00:46.583  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.583  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.583  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.583  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 08:00:46.583  [booting time][start]:[update][get version] url=  "https://x-api.bluestacks.com/get_version?oem=nxt"
+[Warn]  2022-07-30 08:00:46.627  QLayout: Attempting to add QLayout "" to BslMainWindow "BslMainWindow", which already has a layout
+[Info]  2022-07-30 08:00:46.688  [booting time][start]:  booting view
+[Info]  2022-07-30 08:00:46.689  [booting time][start]: [home webengine] set url
+[Info]  2022-07-30 08:00:46.706  domain test host:  "bsxplayer.bluestacks.com"
+[Info]  2022-07-30 08:00:46.707  [booting time][start]: [cs webengine] set url
+[Info]  2022-07-30 08:00:46.714  domain test host:  "xcs.bluestacks.com"
+[Info]  2022-07-30 08:00:46.715  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 08:00:46.716  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 08:00:46.716  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 08:00:46.717  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 08:00:46.718  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 08:00:46.718  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 08:00:46.719  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 08:00:46.719  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 08:00:46.720  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 08:00:46.720  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 08:00:46.721  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 08:00:46.722  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 08:00:46.723  [UserEdit Account logout] "{\n    \"refresh_token\": \"\",\n    \"uuid\": \"0010006f-00d9-00ca-0023-00b000000000\"\n}\n"
+[Info]  2022-07-30 08:00:46.724  [Account] Nowgg account updated.  ""
+[Info]  2022-07-30 08:00:46.724  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 08:00:46.725  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 08:00:46.726  [booting time][start]: [Get 64-bit app configuration] url=  "https://cloud.bluestacks.com/bs4/get_appcenter_app_action?client_ver=5.8.100.1001&oem=nxt"
+[Info]  2022-07-30 08:00:46.823  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 08:00:46.823  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.824  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.824  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 08:00:46.825  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-07-30 08:00:46.825  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 08:00:46.826  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-07-30 08:00:46.826  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 08:00:46.827  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CreatorStudioPlugin.dll"
+[Info]  2022-07-30 08:00:46.827  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 08:00:46.828  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-07-30 08:00:46.828  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.829  [HYPER_V] Machine Virtualization deceted VirtualBox
+[Info]  2022-07-30 08:00:46.829  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-07-30 08:00:46.829  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 08:00:46.830  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-07-30 08:00:46.830  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 08:00:46.830  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-07-30 08:00:46.830  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 08:00:46.831  [SETTING] Play game strategy type is set to:  0
+[Info]  2022-07-30 08:00:46.831  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-07-30 08:00:46.832  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 08:00:46.832  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-07-30 08:00:46.832  [FEEDBACK] Getting remote category version...
+[Info]  2022-07-30 08:00:46.832  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 08:00:46.833  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-07-30 08:00:46.850  [GRM]Grm File Downloaded Finished
+[Info]  2022-07-30 08:00:46.850  [booting time][start] Grm Config File Downloaded started
+[Info]  2022-07-30 08:00:46.885  [UPDATE]Using internet update
+[Info]  2022-07-30 08:00:46.885  [UPDATE]Returned local BS5 compatible true
+[Info]  2022-07-30 08:00:46.886  [UPDATE]Returned local BS5 version: "5.9.0.1061"
+[Info]  2022-07-30 08:00:46.886  [UPDATE]No remote BS5 version returned
+[Info]  2022-07-30 08:00:46.887  [UPDATE]Default image for virtual box is set to "Nougat32"
+[Info]  2022-07-30 08:00:46.887  [UPDATE]Default image for Hyper-V is set to "Nougat64"
+[Info]  2022-07-30 08:00:46.888  [UPDATE]Returned supported player images
+[Info]  2022-07-30 08:00:46.890  load url:  "https://bsxplayer.bluestacks.com/home"
+[Info]  2022-07-30 08:00:46.943  [booting time][finish]: [Get 64-bit app configuration] success
+[Info]  2022-07-30 08:00:46.994  [STATS]STATS: {ef6af7b8-fa72-4844-998f-d409051c46a8} -> 200
+[Info]  2022-07-30 08:00:47.122  [GRM]Grm Config File Downloaded Finished
+[Info]  2022-07-30 08:00:47.122  [booting time][finish] Grm Config File Downloaded Finished
+[Info]  2022-07-30 08:00:47.228  [UPDATE]Empty download url in quick download.
+[Info]  2022-07-30 08:00:47.229  [BRIDGE]Bridge file found! Loading bridge file...
+[Info]  2022-07-30 08:00:47.230  [BRIDGE]Loading Bridge...  "C:/Users/jzamo/AppData/Local/BlueStacks X/Bridge/5.9.0.1061/HD-Bridge-Native.dll" with
+[Info]  2022-07-30 08:00:47.240  true...
+[Info]  2022-07-30 08:00:47.244  [BRIDGE] Bridge creatorStudio called with json of 
+{
+    "name": "enableCsEffect",
+    "params": {
+        "isEnable": true
+    }
+}
+
+[Info]  2022-07-30 08:00:47.245  Bridge -> update effect ins: ""  uid: ""  token: ""
+[Info]  2022-07-30 08:00:47.329  [BRIDGE]Bridge locale changed to "en-US"
+[Info]  2022-07-30 08:00:47.445  [GRM]Grm Download System Finished with success
+[Info]  2022-07-30 08:00:47.455  [Update] http callback:  "{\"success\":true,\"versionCode\":\"0.16.3.1\",\"downloadUrl\":\"https://cdn3.bluestacks.com/downloads/windows/bsx-update/0.16.3.1/BlueStacks%20X-Update_0.16.3.1.exe\",\"upgradeType\":0,\"updateTime\":\"2022-06-27 11:16:00.794000+00:00\"}"
+[Info]  2022-07-30 08:00:47.455  [booting time][finish]:[update][get version] request success
+[Info]  2022-07-30 08:00:47.456  [FEEDBACK] Getting remote category version finished
+[Info]  2022-07-30 08:00:47.457  [FEEDBACK] Remote category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2022-07-30 08:00:47.457  [FEEDBACK] Reading local category...
+[Info]  2022-07-30 08:00:47.458  [FEEDBACK] Local category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2022-07-30 08:00:47.459  [FEEDBACK] Category resolved finished with length of en of 8
+[Info]  2022-07-30 08:00:47.521  [Account httpcallback]
+[Warn]  2022-07-30 08:00:47.566  "Wrong GlMode of AGA_DX ofcom.garena.game.ftmtw"
+[Warn]  2022-07-30 08:00:47.577  "Wrong GlMode of AGA_DX ofcom.firstmeetgame.fairytailtw.gp"
+[Info]  2022-07-30 08:00:47.650  [GRM] Reading Grm file finished with 203 ms
+[Info]  2022-07-30 08:00:47.651  [GRM] Grm resolved with 949
+[Info]  2022-07-30 08:00:47.651  [GRM] Grm resolved BS5 update with 1
+[Info]  2022-07-30 08:00:47.651  [GRM] No BSX GRM game detected
+[Info]  2022-07-30 08:00:47.653  [Update] can enter mainwindow.
+[Info]  2022-07-30 08:00:47.654  [Update] can enter mainwindow.
+[Info]  2022-07-30 08:00:47.654  [account result]:  false ,  ""
+[Info]  2022-07-30 08:00:47.656  Bridge -> update effect ins: ""  uid: ""  token: ""
+[Warn]  2022-07-30 08:00:48.819  将根据已有的meta标签来设置缩放比例
+[Warn]  2022-07-30 08:00:48.828  将根据已有的meta标签来设置缩放比例
+[Warn]  2022-07-30 08:00:49.020  Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+[Info]  2022-07-30 08:00:49.033  [booting time][finish]: [home webengine] load success
+[Info]  2022-07-30 08:00:49.040  "[booting time][finish]:qwebChannelConnectCompleted"
+[Info]  2022-07-30 08:00:49.041  [postWebVersionInfo(BSX)]:
+ {
+    "data": {
+        "name": "BlueStacks X Version",
+        "stamp": "20220713-0435_prod",
+        "version": "bsxweb-v0.17.0.1004"
+    },
+    "event": "postWebVersionInfo",
+    "ga": {
+    },
+    "page": 0
+}
+
+[Info]  2022-07-30 08:00:49.042  "[booting time][start]:preClientConfigFetch"
+[Info]  2022-07-30 08:00:49.577  "[booting time][finish]:preClientConfigFetch"
+[Info]  2022-07-30 08:00:49.730  "[booting time][start]:preCoreDataLoad"
+[Info]  2022-07-30 08:00:49.732  "[booting time][start]:fetchFeatureApps"
+[Info]  2022-07-30 08:00:49.733  "[booting time][start]:fetchRotationApps"
+[Info]  2022-07-30 08:00:49.733  "[booting time][start]:fetchGameCenterApps"
+[Warn]  2022-07-30 08:00:49.834  Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+[Warn]  2022-07-30 08:00:49.868  Timer '<---qwebChannelConnect--->' does not exist
+[Info]  2022-07-30 08:00:49.869  "[booting time][finish]:qwebChannelConnect for Creator Hub"
+[Info]  2022-07-30 08:00:49.870  [postWebVersionInfo(CS)]:
+ {
+    "data": {
+        "name": "CS For Blusstacks X",
+        "stamp": "20220713-0425_prod",
+        "version": "bsxcsweb-v0.17.0.1004"
+    },
+    "event": "postWebVersionInfo",
+    "ga": {
+    },
+    "page": 0
+}
+
+[Info]  2022-07-30 08:00:49.871  "[booting time][start]:preClientConfigFetch for Creator Hub"
+[Info]  2022-07-30 08:00:49.872  [booting time][finish]: [cs webengine] load success
+[Info]  2022-07-30 08:00:50.398  [booting time][start]: GetModedGameList
+[Info]  2022-07-30 08:00:50.399  [CS] Get moded games request sent:  "https://xcs-api.now.gg/api/game/list?country=US&oem=nxt"
+[Info]  2022-07-30 08:00:50.400  [booting time][start]: GetModedGameList
+[Info]  2022-07-30 08:00:50.402  [CS] Get moded games request sent:  "https://xcs-api.now.gg/api/game/list?country=US&oem=nxt"
+[Info]  2022-07-30 08:00:50.461  "[booting time][finish]:preClientConfigFetch for Creator Hub"
+[Warn]  2022-07-30 08:00:50.501  Timer '<---https://xcs-api.now.gg/api/hubindex/getEffectList_get--->' already exists
+[Warn]  2022-07-30 08:00:50.521  Timer '<---showWebPage--->' does not exist
+[Info]  2022-07-30 08:00:50.521  "[booting time][start]:https://xcs-api.now.gg/api/hubindex/getHotList_get for Creator Hub"
+[Info]  2022-07-30 08:00:50.521  "[booting time][start]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Info]  2022-07-30 08:00:50.521  "[booting time][start]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Info]  2022-07-30 08:00:50.538  "[booting time][start]:https://cloud.bluestacks.com/api/getcountryforip_get for Creator Hub"
+[Info]  2022-07-30 08:00:50.538  "[booting time][start]:https://xcs-api.now.gg/api/game/list_get for Creator Hub"
+[Info]  2022-07-30 08:00:50.554  [booting time][finish]:  "cs web page"
+[Info]  2022-07-30 08:00:50.584  "[booting time][finish]:showWebPage for Creator Hub"
+[Info]  2022-07-30 08:00:50.726  "[booting time][finish]:https://cloud.bluestacks.com/api/getcountryforip_get for Creator Hub"
+[Info]  2022-07-30 08:00:50.832  "[booting time][finish]:fetchFeatureApps"
+[Info]  2022-07-30 08:00:51.334  [CS] Moded game list downloaded finished, resloving...
+[Info]  2022-07-30 08:00:51.334  [booting time][finish]: GetModedGameList
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] requesting package download url for "com.aqupepgames.projectpepe"
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] requesting package download url for "com.devsisters.ck"
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] requesting package download url for "com.dts.freefiremax"
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] requesting package download url for "com.dts.freefireth"
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] requesting package download url for "com.igg.android.lordsmobile"
+[Info]  2022-07-30 08:00:51.334  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.334  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] requesting package download url for "com.king.candycrushsaga"
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] requesting package download url for "com.kingsgroup.sos"
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] requesting package download url for "com.scopely.headshot"
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] requesting package download url for "com.tencent.ig"
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--2
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] requesting package download url for "com.YoStarEN.Arknights"
+[Info]  2022-07-30 08:00:51.350  [GAME_INSTALL] Request sent
+[Info]  2022-07-30 08:00:51.350  [DEBUG_TRACKING] Apk url callback--12
+[Info]  2022-07-30 08:00:51.350  [CS] Moded game list resovled finished with length of  10
+[Info]  2022-07-30 08:00:51.350  [BEvent::ModedGameListChange]
+[Info]  2022-07-30 08:00:51.350  "com.aqupepgames.projectpepe"
+[Info]  2022-07-30 08:00:51.350  "com.devsisters.ck"
+[Info]  2022-07-30 08:00:51.350  "com.dts.freefiremax"
+[Info]  2022-07-30 08:00:51.350  "com.dts.freefireth"
+[Info]  2022-07-30 08:00:51.350  "com.igg.android.lordsmobile"
+[Info]  2022-07-30 08:00:51.350  "com.king.candycrushsaga"
+[Info]  2022-07-30 08:00:51.350  "com.kingsgroup.sos"
+[Info]  2022-07-30 08:00:51.350  "com.scopely.headshot"
+[Info]  2022-07-30 08:00:51.350  "com.tencent.ig"
+[Info]  2022-07-30 08:00:51.350  "com.YoStarEN.Arknights"
+[Info]  2022-07-30 08:00:51.448  "[booting time][finish]:https://xcs-api.now.gg/api/game/list_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.449  "[booting time][finish]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.470  "[booting time][finish]:https://xcs-api.now.gg/api/hubindex/getHotList_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.499  Timer '<---https://xcs-api.now.gg/api/hubindex/getEffectList_get--->' does not exist
+[Info]  2022-07-30 08:00:51.501  "[booting time][finish]:https://xcs-api.now.gg/api/hubindex/getEffectList_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.516  [GAME_INSTALL] Request responsed for "com.tencent.ig"
+[Info]  2022-07-30 08:00:51.517  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.tencent.ig/ApkPure/2.1.0/com.tencent.ig.xapk"
+[Info]  2022-07-30 08:00:51.517  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.518  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.518  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.519  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.519  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 08:00:51.520  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 08:00:51.520  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 08:00:51.521  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 08:00:51.621  [GAME_INSTALL] Request responsed for "com.kingsgroup.sos"
+[Info]  2022-07-30 08:00:51.624  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 08:00:51.625  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.626  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.626  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.627  [GAME_INSTALL] Request responsed for "com.YoStarEN.Arknights"
+[Info]  2022-07-30 08:00:51.627  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.628  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 08:00:51.628  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 08:00:51.629  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.630  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.630  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.631  [GAME_INSTALL] Request responsed for "com.king.candycrushsaga"
+[Info]  2022-07-30 08:00:51.631  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.632  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.king.candycrushsaga/Google/1.232.1.1/com.king.candycrushsaga.apk"
+[Info]  2022-07-30 08:00:51.632  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 08:00:51.633  [DEBUG_TRACKING] Apk url callback--01
+[Warn]  2022-07-30 08:00:51.634  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Info]  2022-07-30 08:00:51.634  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.634  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.636  [GAME_INSTALL] Request responsed for "com.dts.freefireth"
+[Info]  2022-07-30 08:00:51.636  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.637  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.dts.freefire/ApkPure/1.92.1/com.dts.freefireth.xapk"
+[Info]  2022-07-30 08:00:51.637  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 08:00:51.638  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.639  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 08:00:51.639  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.639  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 08:00:51.640  [GAME_INSTALL] Request responsed for "com.igg.android.lordsmobile"
+[Info]  2022-07-30 08:00:51.641  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 08:00:51.641  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.igg.android.lordsmobile/ApkCombo/2.83/com.igg.android.lordsmobile.xapk"
+[Info]  2022-07-30 08:00:51.642  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.642  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.643  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.643  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.644  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 08:00:51.645  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 08:00:51.646  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 08:00:51.646  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 08:00:51.647  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.649  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.649  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 08:00:51.650  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 08:00:51.651  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 08:00:51.651  [DEBUG_TRACKING] Apk url callback--03
+[Warn]  2022-07-30 08:00:51.652  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 08:00:51.653  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 08:00:51.653  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 08:00:51.654  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 08:00:51.654  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 08:00:51.656  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 08:00:51.657  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Warn]  2022-07-30 08:00:51.659  Timer '<---https://cloud.bluestacks.com/app/info_get--->' already exists
+[Info]  2022-07-30 08:00:51.660  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.660  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.661  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.662  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.664  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.665  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.667  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.668  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.668  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.669  "[booting time][start]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.683  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.687  [GAME_INSTALL] Request responsed for "com.scopely.headshot"
+[Info]  2022-07-30 08:00:51.687  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 08:00:51.688  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.689  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.689  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.690  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.690  [DEBUG_TRACKING] Apk url callback--03
+[Warn]  2022-07-30 08:00:51.692  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.693  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.710  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.712  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.789  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.790  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.793  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.794  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.831  [GAME_INSTALL] Request responsed for "com.aqupepgames.projectpepe"
+[Info]  2022-07-30 08:00:51.832  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.aqupepgames.projectpepe/ApkCombo/38.3.1/com.aqupepgames.projectpepe.xapk"
+[Info]  2022-07-30 08:00:51.832  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.834  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.834  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.835  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.835  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 08:00:51.836  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 08:00:51.836  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 08:00:51.837  [DEBUG_TRACKING] Apk url callback--03
+[Warn]  2022-07-30 08:00:51.838  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.838  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.839  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.840  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.841  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.842  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.843  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.844  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Warn]  2022-07-30 08:00:51.845  Timer '<---https://cloud.bluestacks.com/app/info_get--->' does not exist
+[Info]  2022-07-30 08:00:51.846  "[booting time][finish]:https://cloud.bluestacks.com/app/info_get for Creator Hub"
+[Info]  2022-07-30 08:00:51.872  "[booting time][finish]:fetchGameCenterApps"
+[Info]  2022-07-30 08:00:51.926  [GAME_INSTALL] Request responsed for "com.dts.freefiremax"
+[Info]  2022-07-30 08:00:51.926  [GAME_INSTALL] Url:  "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.dts.freefiremax/ApkPure/2.92.1/com.dts.freefiremax.xapk"
+[Info]  2022-07-30 08:00:51.927  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.927  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.927  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.928  [GAME_INSTALL] Request responsed for "com.devsisters.ck"
+[Info]  2022-07-30 08:00:51.928  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.928  [GAME_INSTALL] Url:  ""
+[Info]  2022-07-30 08:00:51.930  [DEBUG_TRACKING] Apk url callback--9
+[Info]  2022-07-30 08:00:51.930  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-07-30 08:00:51.931  [DEBUG_TRACKING] Apk url callback--10
+[Info]  2022-07-30 08:00:51.931  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-07-30 08:00:51.931  [DEBUG_TRACKING] Apk url callback--11
+[Info]  2022-07-30 08:00:51.932  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 08:00:51.932  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-07-30 08:00:51.932  [DEBUG_TRACKING] Apk url callback--8
+[Info]  2022-07-30 08:00:51.934  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-07-30 08:00:55.345  "[booting time][finish]:fetchRotationApps"
+[Info]  2022-07-30 08:00:55.351  "[booting time][finish]:preCoreDataLoad"
+[Info]  2022-07-30 08:00:55.354  [booting time][finish]:  "home web page"
+[Info]  2022-07-30 08:00:55.354  [booting time][finish]:  booting view
+[Info]  2022-07-30 08:00:55.355  "[booting time][finish]:showWebPage"
+[Info]  2022-07-30 08:00:55.363  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.je.supersus.jpg"
+[Info]  2022-07-30 08:00:55.363  Using VLC Player..............................
+[Info]  2022-07-30 08:00:55.750  [DB] vlc init
+[Info]  2022-07-30 08:00:56.082  banner download finished: "https___cdn-bgp.bluestacks.com_bgp_fullhd_com.je.supersus.jpg"
+[Info]  2022-07-30 08:00:56.467  [enter mainwindow.......]
+[Info]  2022-07-30 08:01:04.345  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.android.vending.jpg"
+[Info]  2022-07-30 08:01:05.762  banner download finished: "https___cdn-bgp.bluestacks.com_bgp_fullhd_com.android.vending.jpg"
+[Info]  2022-07-30 08:01:06.570  {
+    "data": {
+        "action": "download",
+        "app_pkg": "com.android.vending",
+        "app_ver_modify_date": "",
+        "banner_url": "",
+        "button_text": "Play Now",
+        "category": "Business",
+        "cloud_app_url": null,
+        "cloud_supported": false,
+        "cloud_type": null,
+        "cs_stats_info": {
+            "appPage": "home",
+            "banner_location": "home",
+            "section": "suggested_apps"
+        },
+        "download_url": "",
+        "full_hd_image": "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.android.vending.jpg",
+        "game_name": "Google Play Store",
+        "icon_url": "https://cloud.bluestacks.com/app/icon?pkg=com.android.vending&use_cdn=true&w=300",
+        "id": "com.android.vending_bsx_rotation_banner",
+        "image_url": null,
+        "isAppDetailAccessable": false,
+        "isBrowserAction": false,
+        "isInstallCDN": false,
+        "isOpenInBrowser": false,
+        "order": 0,
+        "package_name": "com.android.vending",
+        "parameter": "",
+        "platform_name": "Google LLC",
+        "showCloudBtn": false,
+        "showPcBtn": false,
+        "showPlayBtn": true,
+        "source": "bsx_rotation_banner",
+        "sticky": "",
+        "title": "Google Play Store"
+    },
+    "event": "installOrPlayAppforVm",
+    "ga": {
+        "app_pkg": "com.android.vending",
+        "banner_location": "STAT_HOME_PAGE_BANNER",
+        "event_type": "install_on_android",
+        "game_type": "android_game"
+    },
+    "page": 0
+}
+
+[Info]  2022-07-30 08:01:06.570  [insertLocalInfo]: "com.android.vending"
+[Info]  2022-07-30 08:01:06.570  [insertCloudInfo]: "com.android.vending"
+[Info]  2022-07-30 08:01:06.570  [MyGame]: Promotion action =  "download" ""
+[Info]  2022-07-30 08:01:06.570  [MyGamePlugin play]: "" , "com.android.vending" , 1 , 0
+[Info]  2022-07-30 08:01:06.575  [MyGamePlugin] Is it a special effect game? false
+[Info]  2022-07-30 08:01:06.575  [BRIDGE]Bridge ready. BS5 ready with 5.9.0.1061
+[Info]  2022-07-30 08:01:06.575  [BRIDGE]Bridge ready. BS5 ready with 5.9.0.1061
+[Info]  2022-07-30 08:01:06.575  [BRIDGE]Bridge ready. BS5 ready with 5.9.0.1061
+[Warn]  2022-07-30 08:01:06.580  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-07-30 08:01:06.580  [DOWNLOADDLG] command set,code:1, insertImage:0, Position:0
+[Info]  2022-07-30 08:01:06.580  checktype:0, packageName:com.android.vending, appName:Google Play Store
+[Info]  2022-07-30 08:01:06.580  icon:https://cloud.bluestacks.com/app/icon?pkg=com.android.vending&use_cdn=true&w=300, apkUrl:, playInstance:
+[Info]  2022-07-30 08:01:06.580  apkInstallInstance:, searchQuery:, tracking:bsx_STAT_HOME_PAGE_BANNER
+[Info]  2022-07-30 08:01:06.580  deepLink:, skipConfirm:false
+[Info]  2022-07-30 08:01:06.580  "[INSTALL] Engine program data detected of C:"
+[Info]  2022-07-30 08:01:06.580  "[INSTALL] Checking Disk space of C: .. Got 30123.6 MB left"
+[Info]  2022-07-30 08:01:07.079  [STATS]STATS: {b49f1725-718d-49a2-93cf-01681740c251} -> 200
+[Info]  2022-07-30 08:01:09.705  [BRIDGE]Image Inserted with "Nougat32"
+[Info]  2022-07-30 08:01:09.896  [STATS]STATS: {75cd80eb-68b3-4c30-8003-8b8f37d860c3} -> 200
+[Info]  2022-07-30 08:01:09.906  [STATS]STATS: {44a7ae62-2e8b-4dce-9459-883035c0e49b} -> 200
+[Info]  2022-07-30 08:01:21.624  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:21.725  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:22.266  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:22.650  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:22.883  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:23.261  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:23.876  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:24.109  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:24.489  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:24.731  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:25.104  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:25.349  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:25.509  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:25.617  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:25.718  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:25.840  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.025  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.127  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.332  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.435  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.537  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.639  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.742  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:26.849  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:27.047  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:27.151  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:27.254  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:27.358  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:27.458  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:27.562  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:27.666  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:28.023  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:28.143  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:28.493  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:28.612  [BRIDGE]CB: Image installing Nougat32 with status of 0 0 %
+[Info]  2022-07-30 08:01:28.718  [BRIDGE]CB: Image installing Nougat32 with status of 0 1 %
+[Info]  2022-07-30 08:01:28.815  [BRIDGE]CB: Image installing Nougat32 with status of 0 1 %
+[Info]  2022-07-30 08:01:28.916  [BRIDGE]CB: Image installing Nougat32 with status of 0 1 %
+[Info]  2022-07-30 08:01:29.016  [BRIDGE]CB: Image installing Nougat32 with status of 0 1 %
+[Info]  2022-07-30 08:01:29.117  [BRIDGE]CB: Image installing Nougat32 with status of 0 1 %
+[Info]  2022-07-30 08:01:29.220  [BRIDGE]CB: Image installing Nougat32 with status of 0 1 %
+[Info]  2022-07-30 08:01:29.323  [BRIDGE]CB: Image installing Nougat32 with status of 0 1 %
+[Info]  2022-07-30 08:01:29.457  [BRIDGE]CB: Image installing Nougat32 with status of 0 2 %
+[Info]  2022-07-30 08:01:29.560  [BRIDGE]CB: Image installing Nougat32 with status of 0 2 %
+[Info]  2022-07-30 08:01:29.681  [BRIDGE]CB: Image installing Nougat32 with status of 0 2 %
+[Info]  2022-07-30 08:01:29.783  [BRIDGE]CB: Image installing Nougat32 with status of 0 2 %
+[Info]  2022-07-30 08:01:29.899  [BRIDGE]CB: Image installing Nougat32 with status of 0 2 %
+[Info]  2022-07-30 08:01:30.000  [BRIDGE]CB: Image installing Nougat32 with status of 0 3 %
+[Info]  2022-07-30 08:01:30.101  [BRIDGE]CB: Image installing Nougat32 with status of 0 3 %
+[Info]  2022-07-30 08:01:30.222  [BRIDGE]CB: Image installing Nougat32 with status of 0 3 %
+[Info]  2022-07-30 08:01:30.323  [BRIDGE]CB: Image installing Nougat32 with status of 0 3 %
+[Info]  2022-07-30 08:01:30.426  [BRIDGE]CB: Image installing Nougat32 with status of 0 3 %
+[Info]  2022-07-30 08:01:30.526  [BRIDGE]CB: Image installing Nougat32 with status of 0 3 %
+[Info]  2022-07-30 08:01:30.627  [BRIDGE]CB: Image installing Nougat32 with status of 0 4 %
+[Info]  2022-07-30 08:01:30.745  [BRIDGE]CB: Image installing Nougat32 with status of 0 4 %
+[Info]  2022-07-30 08:01:30.875  [BRIDGE]CB: Image installing Nougat32 with status of 0 4 %
+[Info]  2022-07-30 08:01:30.977  [BRIDGE]CB: Image installing Nougat32 with status of 0 4 %
+[Info]  2022-07-30 08:01:31.080  [BRIDGE]CB: Image installing Nougat32 with status of 0 4 %
+[Info]  2022-07-30 08:01:31.182  [BRIDGE]CB: Image installing Nougat32 with status of 0 4 %
+[Info]  2022-07-30 08:01:31.283  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:31.401  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:31.612  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:31.714  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:31.815  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:31.952  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:32.052  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:32.175  [BRIDGE]CB: Image installing Nougat32 with status of 0 5 %
+[Info]  2022-07-30 08:01:32.277  [BRIDGE]CB: Image installing Nougat32 with status of 0 6 %
+[Info]  2022-07-30 08:01:32.393  [BRIDGE]CB: Image installing Nougat32 with status of 0 6 %
+[Info]  2022-07-30 08:01:32.494  [BRIDGE]CB: Image installing Nougat32 with status of 0 6 %
+[Info]  2022-07-30 08:01:32.608  [BRIDGE]CB: Image installing Nougat32 with status of 0 6 %
+[Info]  2022-07-30 08:01:32.750  [BRIDGE]CB: Image installing Nougat32 with status of 0 6 %
+[Info]  2022-07-30 08:01:32.852  [BRIDGE]CB: Image installing Nougat32 with status of 0 7 %
+[Info]  2022-07-30 08:01:32.982  [BRIDGE]CB: Image installing Nougat32 with status of 0 7 %
+[Info]  2022-07-30 08:01:33.082  [BRIDGE]CB: Image installing Nougat32 with status of 0 7 %
+[Info]  2022-07-30 08:01:33.185  [BRIDGE]CB: Image installing Nougat32 with status of 0 7 %
+[Info]  2022-07-30 08:01:33.314  [BRIDGE]CB: Image installing Nougat32 with status of 0 7 %
+[Info]  2022-07-30 08:01:33.418  [BRIDGE]CB: Image installing Nougat32 with status of 0 7 %
+[Info]  2022-07-30 08:01:33.537  [BRIDGE]CB: Image installing Nougat32 with status of 0 8 %
+[Info]  2022-07-30 08:01:33.638  [BRIDGE]CB: Image installing Nougat32 with status of 0 8 %
+[Info]  2022-07-30 08:01:33.739  [BRIDGE]CB: Image installing Nougat32 with status of 0 8 %
+[Info]  2022-07-30 08:01:33.840  [BRIDGE]CB: Image installing Nougat32 with status of 0 8 %
+[Info]  2022-07-30 08:01:33.940  [BRIDGE]CB: Image installing Nougat32 with status of 0 8 %
+[Info]  2022-07-30 08:01:34.042  [BRIDGE]CB: Image installing Nougat32 with status of 0 9 %
+[Info]  2022-07-30 08:01:34.145  [BRIDGE]CB: Image installing Nougat32 with status of 0 9 %
+[Info]  2022-07-30 08:01:34.290  [BRIDGE]CB: Image installing Nougat32 with status of 0 9 %
+[Info]  2022-07-30 08:01:34.423  [BRIDGE]CB: Image installing Nougat32 with status of 0 9 %
+[Info]  2022-07-30 08:01:34.544  [BRIDGE]CB: Image installing Nougat32 with status of 0 9 %
+[Info]  2022-07-30 08:01:34.700  [BRIDGE]CB: Image installing Nougat32 with status of 0 9 %
+[Info]  2022-07-30 08:01:34.799  [BRIDGE]CB: Image installing Nougat32 with status of 0 10 %
+[Info]  2022-07-30 08:01:34.906  [BRIDGE]CB: Image installing Nougat32 with status of 0 10 %
+[Info]  2022-07-30 08:01:35.007  [BRIDGE]CB: Image installing Nougat32 with status of 0 10 %
+[Info]  2022-07-30 08:01:35.146  [BRIDGE]CB: Image installing Nougat32 with status of 0 10 %
+[Info]  2022-07-30 08:01:35.246  [BRIDGE]CB: Image installing Nougat32 with status of 0 10 %
+[Info]  2022-07-30 08:01:35.348  [BRIDGE]CB: Image installing Nougat32 with status of 0 11 %
+[Info]  2022-07-30 08:01:35.448  [BRIDGE]CB: Image installing Nougat32 with status of 0 11 %
+[Info]  2022-07-30 08:01:35.549  [BRIDGE]CB: Image installing Nougat32 with status of 0 11 %
+[Info]  2022-07-30 08:01:35.658  [BRIDGE]CB: Image installing Nougat32 with status of 0 11 %
+[Info]  2022-07-30 08:01:35.782  [BRIDGE]CB: Image installing Nougat32 with status of 0 11 %
+[Info]  2022-07-30 08:01:35.911  [BRIDGE]CB: Image installing Nougat32 with status of 0 11 %
+[Info]  2022-07-30 08:01:36.043  [BRIDGE]CB: Image installing Nougat32 with status of 0 12 %
+[Info]  2022-07-30 08:01:36.144  [BRIDGE]CB: Image installing Nougat32 with status of 0 12 %
+[Info]  2022-07-30 08:01:36.245  [BRIDGE]CB: Image installing Nougat32 with status of 0 12 %
+[Info]  2022-07-30 08:01:36.346  [BRIDGE]CB: Image installing Nougat32 with status of 0 12 %
+[Info]  2022-07-30 08:01:36.451  [BRIDGE]CB: Image installing Nougat32 with status of 0 12 %
+[Info]  2022-07-30 08:01:36.552  [BRIDGE]CB: Image installing Nougat32 with status of 0 12 %
+[Info]  2022-07-30 08:01:36.671  [BRIDGE]CB: Image installing Nougat32 with status of 0 13 %
+[Info]  2022-07-30 08:01:36.772  [BRIDGE]CB: Image installing Nougat32 with status of 0 13 %
+[Info]  2022-07-30 08:01:36.873  [BRIDGE]CB: Image installing Nougat32 with status of 0 13 %
+[Info]  2022-07-30 08:01:36.981  [BRIDGE]CB: Image installing Nougat32 with status of 0 13 %
+[Info]  2022-07-30 08:01:37.083  [BRIDGE]CB: Image installing Nougat32 with status of 0 13 %
+[Info]  2022-07-30 08:01:37.193  [BRIDGE]CB: Image installing Nougat32 with status of 0 13 %
+[Info]  2022-07-30 08:01:37.301  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:37.402  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:37.547  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:37.650  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:37.772  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:38.142  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:38.304  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:38.526  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:38.648  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:38.767  [BRIDGE]CB: Image installing Nougat32 with status of 0 14 %
+[Info]  2022-07-30 08:01:38.869  [BRIDGE]CB: Image installing Nougat32 with status of 0 15 %
+[Info]  2022-07-30 08:01:38.970  [BRIDGE]CB: Image installing Nougat32 with status of 0 15 %
+[Info]  2022-07-30 08:01:39.094  [BRIDGE]CB: Image installing Nougat32 with status of 0 15 %
+[Info]  2022-07-30 08:01:39.197  [BRIDGE]CB: Image installing Nougat32 with status of 0 15 %
+[Info]  2022-07-30 08:01:39.297  [BRIDGE]CB: Image installing Nougat32 with status of 0 15 %
+[Info]  2022-07-30 08:01:39.396  [BRIDGE]CB: Image installing Nougat32 with status of 0 15 %
+[Info]  2022-07-30 08:01:39.497  [BRIDGE]CB: Image installing Nougat32 with status of 0 16 %
+[Info]  2022-07-30 08:01:39.597  [BRIDGE]CB: Image installing Nougat32 with status of 0 16 %
+[Info]  2022-07-30 08:01:39.697  [BRIDGE]CB: Image installing Nougat32 with status of 0 16 %
+[Info]  2022-07-30 08:01:39.823  [BRIDGE]CB: Image installing Nougat32 with status of 0 16 %
+[Info]  2022-07-30 08:01:39.940  [BRIDGE]CB: Image installing Nougat32 with status of 0 16 %
+[Info]  2022-07-30 08:01:40.254  [BRIDGE]CB: Image installing Nougat32 with status of 0 16 %
+[Info]  2022-07-30 08:01:40.355  [BRIDGE]CB: Image installing Nougat32 with status of 0 16 %
+[Info]  2022-07-30 08:01:40.457  [BRIDGE]CB: Image installing Nougat32 with status of 0 17 %
+[Info]  2022-07-30 08:01:40.558  [BRIDGE]CB: Image installing Nougat32 with status of 0 17 %
+[Info]  2022-07-30 08:01:40.665  [BRIDGE]CB: Image installing Nougat32 with status of 0 17 %
+[Info]  2022-07-30 08:01:40.765  [BRIDGE]CB: Image installing Nougat32 with status of 0 17 %
+[Info]  2022-07-30 08:01:40.866  [BRIDGE]CB: Image installing Nougat32 with status of 0 17 %
+[Info]  2022-07-30 08:01:40.966  [BRIDGE]CB: Image installing Nougat32 with status of 0 17 %
+[Info]  2022-07-30 08:01:41.067  [BRIDGE]CB: Image installing Nougat32 with status of 0 18 %
+[Info]  2022-07-30 08:01:41.167  [BRIDGE]CB: Image installing Nougat32 with status of 0 18 %
+[Info]  2022-07-30 08:01:41.268  [BRIDGE]CB: Image installing Nougat32 with status of 0 18 %
+[Info]  2022-07-30 08:01:41.369  [BRIDGE]CB: Image installing Nougat32 with status of 0 18 %
+[Info]  2022-07-30 08:01:41.471  [BRIDGE]CB: Image installing Nougat32 with status of 0 18 %
+[Info]  2022-07-30 08:01:41.571  [BRIDGE]CB: Image installing Nougat32 with status of 0 18 %
+[Info]  2022-07-30 08:01:41.706  [BRIDGE]CB: Image installing Nougat32 with status of 0 19 %
+[Info]  2022-07-30 08:01:41.809  [BRIDGE]CB: Image installing Nougat32 with status of 0 19 %
+[Info]  2022-07-30 08:01:41.912  [BRIDGE]CB: Image installing Nougat32 with status of 0 19 %
+[Info]  2022-07-30 08:01:42.013  [BRIDGE]CB: Image installing Nougat32 with status of 0 19 %
+[Info]  2022-07-30 08:01:42.114  [BRIDGE]CB: Image installing Nougat32 with status of 0 19 %
+[Info]  2022-07-30 08:01:42.218  [BRIDGE]CB: Image installing Nougat32 with status of 0 19 %
+[Info]  2022-07-30 08:01:42.318  [BRIDGE]CB: Image installing Nougat32 with status of 0 19 %
+[Info]  2022-07-30 08:01:42.433  [BRIDGE]CB: Image installing Nougat32 with status of 0 20 %
+[Info]  2022-07-30 08:01:42.534  [BRIDGE]CB: Image installing Nougat32 with status of 0 20 %
+[Info]  2022-07-30 08:01:42.655  [BRIDGE]CB: Image installing Nougat32 with status of 0 20 %
+[Info]  2022-07-30 08:01:42.756  [BRIDGE]CB: Image installing Nougat32 with status of 0 20 %
+[Info]  2022-07-30 08:01:42.867  [BRIDGE]CB: Image installing Nougat32 with status of 0 20 %
+[Info]  2022-07-30 08:01:42.969  [BRIDGE]CB: Image installing Nougat32 with status of 0 20 %
+[Info]  2022-07-30 08:01:43.096  [BRIDGE]CB: Image installing Nougat32 with status of 0 21 %
+[Info]  2022-07-30 08:01:43.196  [BRIDGE]CB: Image installing Nougat32 with status of 0 21 %
+[Info]  2022-07-30 08:01:43.297  [BRIDGE]CB: Image installing Nougat32 with status of 0 21 %
+[Info]  2022-07-30 08:01:43.399  [BRIDGE]CB: Image installing Nougat32 with status of 0 21 %
+[Info]  2022-07-30 08:01:43.501  [BRIDGE]CB: Image installing Nougat32 with status of 0 21 %
+[Info]  2022-07-30 08:01:43.604  [BRIDGE]CB: Image installing Nougat32 with status of 0 21 %
+[Info]  2022-07-30 08:01:43.736  [BRIDGE]CB: Image installing Nougat32 with status of 0 22 %
+[Info]  2022-07-30 08:01:43.839  [BRIDGE]CB: Image installing Nougat32 with status of 0 22 %
+[Info]  2022-07-30 08:01:43.938  [BRIDGE]CB: Image installing Nougat32 with status of 0 22 %
+[Info]  2022-07-30 08:01:44.045  [BRIDGE]CB: Image installing Nougat32 with status of 0 22 %
+[Info]  2022-07-30 08:01:44.146  [BRIDGE]CB: Image installing Nougat32 with status of 0 22 %
+[Info]  2022-07-30 08:01:44.248  [BRIDGE]CB: Image installing Nougat32 with status of 0 22 %
+[Info]  2022-07-30 08:01:44.353  [BRIDGE]CB: Image installing Nougat32 with status of 0 23 %
+[Info]  2022-07-30 08:01:44.469  [BRIDGE]CB: Image installing Nougat32 with status of 0 23 %
+[Info]  2022-07-30 08:01:44.591  [BRIDGE]CB: Image installing Nougat32 with status of 0 23 %
+[Info]  2022-07-30 08:01:44.692  [BRIDGE]CB: Image installing Nougat32 with status of 0 23 %
+[Info]  2022-07-30 08:01:45.050  [BRIDGE]CB: Image installing Nougat32 with status of 0 23 %
+[Info]  2022-07-30 08:01:45.151  [BRIDGE]CB: Image installing Nougat32 with status of 0 23 %
+[Info]  2022-07-30 08:01:45.254  [BRIDGE]CB: Image installing Nougat32 with status of 0 24 %
+[Info]  2022-07-30 08:01:45.365  [BRIDGE]CB: Image installing Nougat32 with status of 0 24 %
+[Info]  2022-07-30 08:01:45.477  [BRIDGE]CB: Image installing Nougat32 with status of 0 24 %
+[Info]  2022-07-30 08:01:45.576  [BRIDGE]CB: Image installing Nougat32 with status of 0 24 %
+[Info]  2022-07-30 08:01:45.701  [BRIDGE]CB: Image installing Nougat32 with status of 0 24 %
+[Info]  2022-07-30 08:01:45.801  [BRIDGE]CB: Image installing Nougat32 with status of 0 24 %
+[Info]  2022-07-30 08:01:45.918  [BRIDGE]CB: Image installing Nougat32 with status of 0 25 %
+[Info]  2022-07-30 08:01:46.020  [BRIDGE]CB: Image installing Nougat32 with status of 0 25 %
+[Info]  2022-07-30 08:01:46.141  [BRIDGE]CB: Image installing Nougat32 with status of 0 25 %
+[Info]  2022-07-30 08:01:46.263  [BRIDGE]CB: Image installing Nougat32 with status of 0 25 %
+[Info]  2022-07-30 08:01:46.367  [BRIDGE]CB: Image installing Nougat32 with status of 0 25 %
+[Info]  2022-07-30 08:01:46.469  [BRIDGE]CB: Image installing Nougat32 with status of 0 25 %
+[Info]  2022-07-30 08:01:46.894  [BRIDGE]CB: Image installing Nougat32 with status of 0 26 %
+[Info]  2022-07-30 08:01:46.996  [BRIDGE]CB: Image installing Nougat32 with status of 0 26 %
+[Info]  2022-07-30 08:01:47.098  [BRIDGE]CB: Image installing Nougat32 with status of 0 26 %
+[Info]  2022-07-30 08:01:47.198  [BRIDGE]CB: Image installing Nougat32 with status of 0 26 %
+[Info]  2022-07-30 08:01:47.309  [BRIDGE]CB: Image installing Nougat32 with status of 0 26 %
+[Info]  2022-07-30 08:01:47.424  [BRIDGE]CB: Image installing Nougat32 with status of 0 26 %
+[Info]  2022-07-30 08:01:47.529  [BRIDGE]CB: Image installing Nougat32 with status of 0 27 %
+[Info]  2022-07-30 08:01:47.631  [BRIDGE]CB: Image installing Nougat32 with status of 0 27 %
+[Info]  2022-07-30 08:01:47.732  [BRIDGE]CB: Image installing Nougat32 with status of 0 27 %
+[Info]  2022-07-30 08:01:47.833  [BRIDGE]CB: Image installing Nougat32 with status of 0 27 %
+[Info]  2022-07-30 08:01:47.981  [BRIDGE]CB: Image installing Nougat32 with status of 0 27 %
+[Info]  2022-07-30 08:01:48.289  [BRIDGE]CB: Image installing Nougat32 with status of 0 27 %
+[Info]  2022-07-30 08:01:48.474  [BRIDGE]CB: Image installing Nougat32 with status of 0 28 %
+[Info]  2022-07-30 08:01:48.575  [BRIDGE]CB: Image installing Nougat32 with status of 0 28 %
+[Info]  2022-07-30 08:01:48.677  [BRIDGE]CB: Image installing Nougat32 with status of 0 28 %
+[Info]  2022-07-30 08:01:49.055  [BRIDGE]CB: Image installing Nougat32 with status of 0 28 %
+[Info]  2022-07-30 08:01:49.156  [BRIDGE]CB: Image installing Nougat32 with status of 0 28 %
+[Info]  2022-07-30 08:01:49.256  [BRIDGE]CB: Image installing Nougat32 with status of 0 28 %
+[Info]  2022-07-30 08:01:49.380  [BRIDGE]CB: Image installing Nougat32 with status of 0 28 %
+[Info]  2022-07-30 08:01:49.522  [BRIDGE]CB: Image installing Nougat32 with status of 0 29 %
+[Info]  2022-07-30 08:01:49.623  [BRIDGE]CB: Image installing Nougat32 with status of 0 29 %
+[Info]  2022-07-30 08:01:49.762  [BRIDGE]CB: Image installing Nougat32 with status of 0 29 %
+[Info]  2022-07-30 08:01:49.864  [BRIDGE]CB: Image installing Nougat32 with status of 0 29 %
+[Info]  2022-07-30 08:01:49.981  [BRIDGE]CB: Image installing Nougat32 with status of 0 29 %
+[Info]  2022-07-30 08:01:50.227  [BRIDGE]CB: Image installing Nougat32 with status of 0 29 %
+[Info]  2022-07-30 08:01:50.338  [BRIDGE]CB: Image installing Nougat32 with status of 0 30 %
+[Info]  2022-07-30 08:01:50.438  [BRIDGE]CB: Image installing Nougat32 with status of 0 30 %
+[Info]  2022-07-30 08:01:50.538  [BRIDGE]CB: Image installing Nougat32 with status of 0 30 %
+[Info]  2022-07-30 08:01:50.683  [BRIDGE]CB: Image installing Nougat32 with status of 0 30 %
+[Info]  2022-07-30 08:01:50.784  [BRIDGE]CB: Image installing Nougat32 with status of 0 30 %
+[Info]  2022-07-30 08:01:50.886  [BRIDGE]CB: Image installing Nougat32 with status of 0 31 %
+[Info]  2022-07-30 08:01:50.988  [BRIDGE]CB: Image installing Nougat32 with status of 0 31 %
+[Info]  2022-07-30 08:01:51.097  [BRIDGE]CB: Image installing Nougat32 with status of 0 31 %
+[Info]  2022-07-30 08:01:51.236  [BRIDGE]CB: Image installing Nougat32 with status of 0 31 %
+[Info]  2022-07-30 08:01:51.341  [BRIDGE]CB: Image installing Nougat32 with status of 0 31 %
+[Info]  2022-07-30 08:01:51.455  [BRIDGE]CB: Image installing Nougat32 with status of 0 31 %
+[Info]  2022-07-30 08:01:51.571  [BRIDGE]CB: Image installing Nougat32 with status of 0 32 %
+[Info]  2022-07-30 08:01:51.671  [BRIDGE]CB: Image installing Nougat32 with status of 0 32 %
+[Info]  2022-07-30 08:01:51.785  [BRIDGE]CB: Image installing Nougat32 with status of 0 32 %
+[Info]  2022-07-30 08:01:51.887  [BRIDGE]CB: Image installing Nougat32 with status of 0 32 %
+[Info]  2022-07-30 08:01:51.999  [BRIDGE]CB: Image installing Nougat32 with status of 0 32 %
+[Info]  2022-07-30 08:01:52.100  [BRIDGE]CB: Image installing Nougat32 with status of 0 32 %
+[Info]  2022-07-30 08:01:52.223  [BRIDGE]CB: Image installing Nougat32 with status of 0 33 %
+[Info]  2022-07-30 08:01:52.323  [BRIDGE]CB: Image installing Nougat32 with status of 0 33 %
+[Info]  2022-07-30 08:01:52.443  [BRIDGE]CB: Image installing Nougat32 with status of 0 33 %
+[Info]  2022-07-30 08:01:52.542  [BRIDGE]CB: Image installing Nougat32 with status of 0 33 %
+[Info]  2022-07-30 08:01:52.661  [BRIDGE]CB: Image installing Nougat32 with status of 0 33 %
+[Info]  2022-07-30 08:01:52.762  [BRIDGE]CB: Image installing Nougat32 with status of 0 33 %
+[Info]  2022-07-30 08:01:52.883  [BRIDGE]CB: Image installing Nougat32 with status of 0 33 %
+[Info]  2022-07-30 08:01:52.983  [BRIDGE]CB: Image installing Nougat32 with status of 0 34 %
+[Info]  2022-07-30 08:01:53.105  [BRIDGE]CB: Image installing Nougat32 with status of 0 34 %
+[Info]  2022-07-30 08:01:53.205  [BRIDGE]CB: Image installing Nougat32 with status of 0 34 %
+[Info]  2022-07-30 08:01:53.307  [BRIDGE]CB: Image installing Nougat32 with status of 0 34 %
+[Info]  2022-07-30 08:01:53.413  [BRIDGE]CB: Image installing Nougat32 with status of 0 34 %
+[Info]  2022-07-30 08:01:53.513  [BRIDGE]CB: Image installing Nougat32 with status of 0 35 %
+[Info]  2022-07-30 08:01:53.614  [BRIDGE]CB: Image installing Nougat32 with status of 0 35 %
+[Info]  2022-07-30 08:01:53.718  [BRIDGE]CB: Image installing Nougat32 with status of 0 35 %
+[Info]  2022-07-30 08:01:53.823  [BRIDGE]CB: Image installing Nougat32 with status of 0 35 %
+[Info]  2022-07-30 08:01:53.926  [BRIDGE]CB: Image installing Nougat32 with status of 0 35 %
+[Info]  2022-07-30 08:01:54.026  [BRIDGE]CB: Image installing Nougat32 with status of 0 35 %
+[Info]  2022-07-30 08:01:54.131  [BRIDGE]CB: Image installing Nougat32 with status of 0 36 %
+[Info]  2022-07-30 08:01:54.253  [BRIDGE]CB: Image installing Nougat32 with status of 0 36 %
+[Info]  2022-07-30 08:01:54.370  [BRIDGE]CB: Image installing Nougat32 with status of 0 36 %
+[Info]  2022-07-30 08:01:54.478  [BRIDGE]CB: Image installing Nougat32 with status of 0 36 %
+[Info]  2022-07-30 08:01:54.581  [BRIDGE]CB: Image installing Nougat32 with status of 0 36 %
+[Info]  2022-07-30 08:01:54.685  [BRIDGE]CB: Image installing Nougat32 with status of 0 36 %
+[Info]  2022-07-30 08:01:54.805  [BRIDGE]CB: Image installing Nougat32 with status of 0 37 %
+[Info]  2022-07-30 08:01:54.934  [BRIDGE]CB: Image installing Nougat32 with status of 0 37 %
+[Info]  2022-07-30 08:01:55.041  [BRIDGE]CB: Image installing Nougat32 with status of 0 37 %
+[Info]  2022-07-30 08:01:55.160  [BRIDGE]CB: Image installing Nougat32 with status of 0 37 %
+[Info]  2022-07-30 08:01:55.275  [BRIDGE]CB: Image installing Nougat32 with status of 0 37 %
+[Info]  2022-07-30 08:01:55.383  [BRIDGE]CB: Image installing Nougat32 with status of 0 37 %
+[Info]  2022-07-30 08:01:55.522  [BRIDGE]CB: Image installing Nougat32 with status of 0 38 %
+[Info]  2022-07-30 08:01:55.622  [BRIDGE]CB: Image installing Nougat32 with status of 0 38 %
+[Info]  2022-07-30 08:01:55.741  [BRIDGE]CB: Image installing Nougat32 with status of 0 38 %
+[Info]  2022-07-30 08:01:55.843  [BRIDGE]CB: Image installing Nougat32 with status of 0 38 %
+[Info]  2022-07-30 08:01:55.949  [BRIDGE]CB: Image installing Nougat32 with status of 0 38 %
+[Info]  2022-07-30 08:01:56.067  [BRIDGE]CB: Image installing Nougat32 with status of 0 38 %
+[Info]  2022-07-30 08:01:56.170  [BRIDGE]CB: Image installing Nougat32 with status of 0 39 %
+[Info]  2022-07-30 08:01:56.271  [BRIDGE]CB: Image installing Nougat32 with status of 0 39 %
+[Info]  2022-07-30 08:01:56.408  [BRIDGE]CB: Image installing Nougat32 with status of 0 39 %
+[Info]  2022-07-30 08:01:56.520  [BRIDGE]CB: Image installing Nougat32 with status of 0 39 %
+[Info]  2022-07-30 08:01:56.623  [BRIDGE]CB: Image installing Nougat32 with status of 0 39 %
+[Info]  2022-07-30 08:01:56.754  [BRIDGE]CB: Image installing Nougat32 with status of 0 40 %
+[Info]  2022-07-30 08:01:56.855  [BRIDGE]CB: Image installing Nougat32 with status of 0 40 %
+[Info]  2022-07-30 08:01:56.963  [BRIDGE]CB: Image installing Nougat32 with status of 0 40 %
+[Info]  2022-07-30 08:01:57.064  [BRIDGE]CB: Image installing Nougat32 with status of 0 40 %
+[Info]  2022-07-30 08:01:57.197  [BRIDGE]CB: Image installing Nougat32 with status of 0 40 %
+[Info]  2022-07-30 08:01:57.308  [BRIDGE]CB: Image installing Nougat32 with status of 0 40 %
+[Info]  2022-07-30 08:01:57.410  [BRIDGE]CB: Image installing Nougat32 with status of 0 41 %
+[Info]  2022-07-30 08:01:57.513  [BRIDGE]CB: Image installing Nougat32 with status of 0 41 %
+[Info]  2022-07-30 08:01:57.627  [BRIDGE]CB: Image installing Nougat32 with status of 0 41 %
+[Info]  2022-07-30 08:01:57.737  [BRIDGE]CB: Image installing Nougat32 with status of 0 41 %
+[Info]  2022-07-30 08:01:57.838  [BRIDGE]CB: Image installing Nougat32 with status of 0 41 %
+[Info]  2022-07-30 08:01:57.939  [BRIDGE]CB: Image installing Nougat32 with status of 0 41 %
+[Info]  2022-07-30 08:01:58.068  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:58.315  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:58.422  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:58.636  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:58.883  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:59.030  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:59.147  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:59.246  [BRIDGE]CB: Image installing Nougat32 with status of 0 42 %
+[Info]  2022-07-30 08:01:59.377  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:01:59.478  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:01:59.591  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:01:59.711  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:01:59.826  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:01:59.942  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:02:00.048  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:02:00.170  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:02:00.394  [BRIDGE]CB: Image installing Nougat32 with status of 0 43 %
+[Info]  2022-07-30 08:02:00.494  [BRIDGE]CB: Image installing Nougat32 with status of 0 44 %
+[Info]  2022-07-30 08:02:00.595  [BRIDGE]CB: Image installing Nougat32 with status of 0 44 %
+[Info]  2022-07-30 08:02:00.696  [BRIDGE]CB: Image installing Nougat32 with status of 0 44 %
+[Info]  2022-07-30 08:02:00.801  [BRIDGE]CB: Image installing Nougat32 with status of 0 44 %
+[Info]  2022-07-30 08:02:00.903  [BRIDGE]CB: Image installing Nougat32 with status of 0 44 %
+[Info]  2022-07-30 08:02:01.007  [BRIDGE]CB: Image installing Nougat32 with status of 0 44 %
+[Info]  2022-07-30 08:02:01.108  [BRIDGE]CB: Image installing Nougat32 with status of 0 45 %
+[Info]  2022-07-30 08:02:01.208  [BRIDGE]CB: Image installing Nougat32 with status of 0 45 %
+[Info]  2022-07-30 08:02:01.308  [BRIDGE]CB: Image installing Nougat32 with status of 0 45 %
+[Info]  2022-07-30 08:02:01.409  [BRIDGE]CB: Image installing Nougat32 with status of 0 45 %
+[Info]  2022-07-30 08:02:01.519  [BRIDGE]CB: Image installing Nougat32 with status of 0 45 %
+[Info]  2022-07-30 08:02:01.626  [BRIDGE]CB: Image installing Nougat32 with status of 0 45 %
+[Info]  2022-07-30 08:02:01.726  [BRIDGE]CB: Image installing Nougat32 with status of 0 45 %
+[Info]  2022-07-30 08:02:01.835  [BRIDGE]CB: Image installing Nougat32 with status of 0 46 %
+[Info]  2022-07-30 08:02:01.964  [BRIDGE]CB: Image installing Nougat32 with status of 0 46 %
+[Info]  2022-07-30 08:02:02.068  [BRIDGE]CB: Image installing Nougat32 with status of 0 46 %
+[Info]  2022-07-30 08:02:02.168  [BRIDGE]CB: Image installing Nougat32 with status of 0 46 %
+[Info]  2022-07-30 08:02:02.284  [BRIDGE]CB: Image installing Nougat32 with status of 0 46 %
+[Info]  2022-07-30 08:02:02.425  [BRIDGE]CB: Image installing Nougat32 with status of 0 47 %
+[Info]  2022-07-30 08:02:02.529  [BRIDGE]CB: Image installing Nougat32 with status of 0 47 %
+[Info]  2022-07-30 08:02:02.630  [BRIDGE]CB: Image installing Nougat32 with status of 0 47 %
+[Info]  2022-07-30 08:02:02.746  [BRIDGE]CB: Image installing Nougat32 with status of 0 47 %
+[Info]  2022-07-30 08:02:02.847  [BRIDGE]CB: Image installing Nougat32 with status of 0 47 %
+[Info]  2022-07-30 08:02:02.951  [BRIDGE]CB: Image installing Nougat32 with status of 0 47 %
+[Info]  2022-07-30 08:02:03.051  [BRIDGE]CB: Image installing Nougat32 with status of 0 48 %
+[Info]  2022-07-30 08:02:03.160  [BRIDGE]CB: Image installing Nougat32 with status of 0 48 %
+[Info]  2022-07-30 08:02:03.261  [BRIDGE]CB: Image installing Nougat32 with status of 0 48 %
+[Info]  2022-07-30 08:02:03.361  [BRIDGE]CB: Image installing Nougat32 with status of 0 48 %
+[Info]  2022-07-30 08:02:03.465  [BRIDGE]CB: Image installing Nougat32 with status of 0 48 %
+[Info]  2022-07-30 08:02:03.565  [BRIDGE]CB: Image installing Nougat32 with status of 0 48 %
+[Info]  2022-07-30 08:02:03.672  [BRIDGE]CB: Image installing Nougat32 with status of 0 48 %
+[Info]  2022-07-30 08:02:03.772  [BRIDGE]CB: Image installing Nougat32 with status of 0 49 %
+[Info]  2022-07-30 08:02:03.883  [BRIDGE]CB: Image installing Nougat32 with status of 0 49 %
+[Info]  2022-07-30 08:02:03.985  [BRIDGE]CB: Image installing Nougat32 with status of 0 49 %
+[Info]  2022-07-30 08:02:04.088  [BRIDGE]CB: Image installing Nougat32 with status of 0 49 %
+[Info]  2022-07-30 08:02:04.205  [BRIDGE]CB: Image installing Nougat32 with status of 0 49 %
+[Info]  2022-07-30 08:02:04.325  [BRIDGE]CB: Image installing Nougat32 with status of 0 49 %
+[Info]  2022-07-30 08:02:04.430  [BRIDGE]CB: Image installing Nougat32 with status of 0 50 %
+[Info]  2022-07-30 08:02:04.548  [BRIDGE]CB: Image installing Nougat32 with status of 0 50 %
+[Info]  2022-07-30 08:02:04.650  [BRIDGE]CB: Image installing Nougat32 with status of 0 50 %
+[Info]  2022-07-30 08:02:04.751  [BRIDGE]CB: Image installing Nougat32 with status of 0 50 %
+[Info]  2022-07-30 08:02:04.854  [BRIDGE]CB: Image installing Nougat32 with status of 0 50 %
+[Info]  2022-07-30 08:02:04.955  [BRIDGE]CB: Image installing Nougat32 with status of 0 50 %
+[Info]  2022-07-30 08:02:05.057  [BRIDGE]CB: Image installing Nougat32 with status of 0 51 %
+[Info]  2022-07-30 08:02:05.157  [BRIDGE]CB: Image installing Nougat32 with status of 0 51 %
+[Info]  2022-07-30 08:02:05.283  [BRIDGE]CB: Image installing Nougat32 with status of 0 51 %
+[Info]  2022-07-30 08:02:05.385  [BRIDGE]CB: Image installing Nougat32 with status of 0 51 %
+[Info]  2022-07-30 08:02:05.485  [BRIDGE]CB: Image installing Nougat32 with status of 0 51 %
+[Info]  2022-07-30 08:02:05.586  [BRIDGE]CB: Image installing Nougat32 with status of 0 51 %
+[Info]  2022-07-30 08:02:05.688  [BRIDGE]CB: Image installing Nougat32 with status of 0 52 %
+[Info]  2022-07-30 08:02:05.790  [BRIDGE]CB: Image installing Nougat32 with status of 0 52 %
+[Info]  2022-07-30 08:02:05.891  [BRIDGE]CB: Image installing Nougat32 with status of 0 52 %
+[Info]  2022-07-30 08:02:05.992  [BRIDGE]CB: Image installing Nougat32 with status of 0 52 %
+[Info]  2022-07-30 08:02:06.092  [BRIDGE]CB: Image installing Nougat32 with status of 0 52 %
+[Info]  2022-07-30 08:02:06.194  [BRIDGE]CB: Image installing Nougat32 with status of 0 52 %
+[Info]  2022-07-30 08:02:06.304  [BRIDGE]CB: Image installing Nougat32 with status of 0 52 %
+[Info]  2022-07-30 08:02:06.440  [BRIDGE]CB: Image installing Nougat32 with status of 0 53 %
+[Info]  2022-07-30 08:02:06.540  [BRIDGE]CB: Image installing Nougat32 with status of 0 53 %
+[Info]  2022-07-30 08:02:06.668  [BRIDGE]CB: Image installing Nougat32 with status of 0 53 %
+[Info]  2022-07-30 08:02:06.768  [BRIDGE]CB: Image installing Nougat32 with status of 0 53 %
+[Info]  2022-07-30 08:02:06.868  [BRIDGE]CB: Image installing Nougat32 with status of 0 53 %
+[Info]  2022-07-30 08:02:06.970  [BRIDGE]CB: Image installing Nougat32 with status of 0 53 %
+[Info]  2022-07-30 08:02:07.071  [BRIDGE]CB: Image installing Nougat32 with status of 0 54 %
+[Info]  2022-07-30 08:02:07.437  [BRIDGE]CB: Image installing Nougat32 with status of 0 54 %
+[Info]  2022-07-30 08:02:07.541  [BRIDGE]CB: Image installing Nougat32 with status of 0 54 %
+[Info]  2022-07-30 08:02:07.667  [BRIDGE]CB: Image installing Nougat32 with status of 0 54 %
+[Info]  2022-07-30 08:02:07.768  [BRIDGE]CB: Image installing Nougat32 with status of 0 54 %
+[Info]  2022-07-30 08:02:07.868  [BRIDGE]CB: Image installing Nougat32 with status of 0 54 %
+[Info]  2022-07-30 08:02:07.996  [BRIDGE]CB: Image installing Nougat32 with status of 0 55 %
+[Info]  2022-07-30 08:02:08.119  [BRIDGE]CB: Image installing Nougat32 with status of 0 55 %
+[Info]  2022-07-30 08:02:08.220  [BRIDGE]CB: Image installing Nougat32 with status of 0 55 %
+[Info]  2022-07-30 08:02:08.321  [BRIDGE]CB: Image installing Nougat32 with status of 0 55 %
+[Info]  2022-07-30 08:02:08.422  [BRIDGE]CB: Image installing Nougat32 with status of 0 55 %
+[Info]  2022-07-30 08:02:08.523  [BRIDGE]CB: Image installing Nougat32 with status of 0 55 %
+[Info]  2022-07-30 08:02:08.623  [BRIDGE]CB: Image installing Nougat32 with status of 0 56 %
+[Info]  2022-07-30 08:02:08.725  [BRIDGE]CB: Image installing Nougat32 with status of 0 56 %
+[Info]  2022-07-30 08:02:08.842  [BRIDGE]CB: Image installing Nougat32 with status of 0 56 %
+[Info]  2022-07-30 08:02:08.965  [BRIDGE]CB: Image installing Nougat32 with status of 0 56 %
+[Info]  2022-07-30 08:02:09.095  [BRIDGE]CB: Image installing Nougat32 with status of 0 56 %
+[Info]  2022-07-30 08:02:09.219  [BRIDGE]CB: Image installing Nougat32 with status of 0 56 %
+[Info]  2022-07-30 08:02:09.319  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:09.421  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:09.697  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:09.799  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:09.930  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:10.083  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:10.211  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:10.311  [BRIDGE]CB: Image installing Nougat32 with status of 0 57 %
+[Info]  2022-07-30 08:02:10.412  [BRIDGE]CB: Image installing Nougat32 with status of 0 58 %
+[Info]  2022-07-30 08:02:10.511  [BRIDGE]CB: Image installing Nougat32 with status of 0 58 %
+[Info]  2022-07-30 08:02:10.613  [BRIDGE]CB: Image installing Nougat32 with status of 0 58 %
+[Info]  2022-07-30 08:02:10.713  [BRIDGE]CB: Image installing Nougat32 with status of 0 58 %
+[Info]  2022-07-30 08:02:10.833  [BRIDGE]CB: Image installing Nougat32 with status of 0 58 %
+[Info]  2022-07-30 08:02:10.992  [BRIDGE]CB: Image installing Nougat32 with status of 0 58 %
+[Info]  2022-07-30 08:02:11.124  [BRIDGE]CB: Image installing Nougat32 with status of 0 59 %
+[Info]  2022-07-30 08:02:11.224  [BRIDGE]CB: Image installing Nougat32 with status of 0 59 %
+[Info]  2022-07-30 08:02:11.329  [BRIDGE]CB: Image installing Nougat32 with status of 0 59 %
+[Info]  2022-07-30 08:02:11.430  [BRIDGE]CB: Image installing Nougat32 with status of 0 59 %
+[Info]  2022-07-30 08:02:11.531  [BRIDGE]CB: Image installing Nougat32 with status of 0 59 %
+[Info]  2022-07-30 08:02:11.635  [BRIDGE]CB: Image installing Nougat32 with status of 0 59 %
+[Info]  2022-07-30 08:02:11.736  [BRIDGE]CB: Image installing Nougat32 with status of 0 60 %
+[Info]  2022-07-30 08:02:11.863  [BRIDGE]CB: Image installing Nougat32 with status of 0 60 %
+[Info]  2022-07-30 08:02:11.991  [BRIDGE]CB: Image installing Nougat32 with status of 0 60 %
+[Info]  2022-07-30 08:02:12.092  [BRIDGE]CB: Image installing Nougat32 with status of 0 60 %
+[Info]  2022-07-30 08:02:12.221  [BRIDGE]CB: Image installing Nougat32 with status of 0 60 %
+[Info]  2022-07-30 08:02:12.324  [BRIDGE]CB: Image installing Nougat32 with status of 0 60 %
+[Info]  2022-07-30 08:02:12.425  [BRIDGE]CB: Image installing Nougat32 with status of 0 61 %
+[Info]  2022-07-30 08:02:12.526  [BRIDGE]CB: Image installing Nougat32 with status of 0 61 %
+[Info]  2022-07-30 08:02:12.629  [BRIDGE]CB: Image installing Nougat32 with status of 0 61 %
+[Info]  2022-07-30 08:02:12.742  [BRIDGE]CB: Image installing Nougat32 with status of 0 61 %
+[Info]  2022-07-30 08:02:12.845  [BRIDGE]CB: Image installing Nougat32 with status of 0 61 %
+[Info]  2022-07-30 08:02:12.963  [BRIDGE]CB: Image installing Nougat32 with status of 0 61 %
+[Info]  2022-07-30 08:02:13.065  [BRIDGE]CB: Image installing Nougat32 with status of 0 62 %
+[Info]  2022-07-30 08:02:13.185  [BRIDGE]CB: Image installing Nougat32 with status of 0 62 %
+[Info]  2022-07-30 08:02:13.286  [BRIDGE]CB: Image installing Nougat32 with status of 0 62 %
+[Info]  2022-07-30 08:02:13.387  [BRIDGE]CB: Image installing Nougat32 with status of 0 62 %
+[Info]  2022-07-30 08:02:13.503  [BRIDGE]CB: Image installing Nougat32 with status of 0 62 %
+[Info]  2022-07-30 08:02:13.604  [BRIDGE]CB: Image installing Nougat32 with status of 0 62 %
+[Info]  2022-07-30 08:02:13.704  [BRIDGE]CB: Image installing Nougat32 with status of 0 63 %
+[Info]  2022-07-30 08:02:13.821  [BRIDGE]CB: Image installing Nougat32 with status of 0 63 %
+[Info]  2022-07-30 08:02:13.923  [BRIDGE]CB: Image installing Nougat32 with status of 0 63 %
+[Info]  2022-07-30 08:02:14.029  [BRIDGE]CB: Image installing Nougat32 with status of 0 63 %
+[Info]  2022-07-30 08:02:14.130  [BRIDGE]CB: Image installing Nougat32 with status of 0 63 %
+[Info]  2022-07-30 08:02:14.230  [BRIDGE]CB: Image installing Nougat32 with status of 0 63 %
+[Info]  2022-07-30 08:02:14.332  [BRIDGE]CB: Image installing Nougat32 with status of 0 64 %
+[Info]  2022-07-30 08:02:14.435  [BRIDGE]CB: Image installing Nougat32 with status of 0 64 %
+[Info]  2022-07-30 08:02:14.539  [BRIDGE]CB: Image installing Nougat32 with status of 0 64 %
+[Info]  2022-07-30 08:02:14.639  [BRIDGE]CB: Image installing Nougat32 with status of 0 64 %
+[Info]  2022-07-30 08:02:14.987  [BRIDGE]CB: Image installing Nougat32 with status of 0 64 %
+[Info]  2022-07-30 08:02:15.089  [BRIDGE]CB: Image installing Nougat32 with status of 0 64 %
+[Info]  2022-07-30 08:02:15.218  [BRIDGE]CB: Image installing Nougat32 with status of 0 64 %
+[Info]  2022-07-30 08:02:15.335  [BRIDGE]CB: Image installing Nougat32 with status of 0 65 %
+[Info]  2022-07-30 08:02:15.445  [BRIDGE]CB: Image installing Nougat32 with status of 0 65 %
+[Info]  2022-07-30 08:02:15.554  [BRIDGE]CB: Image installing Nougat32 with status of 0 65 %
+[Info]  2022-07-30 08:02:15.655  [BRIDGE]CB: Image installing Nougat32 with status of 0 65 %
+[Info]  2022-07-30 08:02:15.786  [BRIDGE]CB: Image installing Nougat32 with status of 0 65 %
+[Info]  2022-07-30 08:02:16.051  [BRIDGE]CB: Image installing Nougat32 with status of 0 65 %
+[Info]  2022-07-30 08:02:16.182  [BRIDGE]CB: Image installing Nougat32 with status of 0 66 %
+[Info]  2022-07-30 08:02:16.286  [BRIDGE]CB: Image installing Nougat32 with status of 0 66 %
+[Info]  2022-07-30 08:02:16.388  [BRIDGE]CB: Image installing Nougat32 with status of 0 66 %
+[Info]  2022-07-30 08:02:16.489  [BRIDGE]CB: Image installing Nougat32 with status of 0 66 %
+[Info]  2022-07-30 08:02:16.823  [BRIDGE]CB: Image installing Nougat32 with status of 0 66 %
+[Info]  2022-07-30 08:02:16.926  [BRIDGE]CB: Image installing Nougat32 with status of 0 66 %
+[Info]  2022-07-30 08:02:17.026  [BRIDGE]CB: Image installing Nougat32 with status of 0 67 %
+[Info]  2022-07-30 08:02:17.144  [BRIDGE]CB: Image installing Nougat32 with status of 0 67 %
+[Info]  2022-07-30 08:02:17.245  [BRIDGE]CB: Image installing Nougat32 with status of 0 67 %
+[Info]  2022-07-30 08:02:17.373  [BRIDGE]CB: Image installing Nougat32 with status of 0 67 %
+[Info]  2022-07-30 08:02:17.477  [BRIDGE]CB: Image installing Nougat32 with status of 0 67 %
+[Info]  2022-07-30 08:02:17.578  [BRIDGE]CB: Image installing Nougat32 with status of 0 67 %
+[Info]  2022-07-30 08:02:17.707  [BRIDGE]CB: Image installing Nougat32 with status of 0 68 %
+[Info]  2022-07-30 08:02:17.809  [BRIDGE]CB: Image installing Nougat32 with status of 0 68 %
+[Info]  2022-07-30 08:02:17.932  [BRIDGE]CB: Image installing Nougat32 with status of 0 68 %
+[Info]  2022-07-30 08:02:18.035  [BRIDGE]CB: Image installing Nougat32 with status of 0 68 %
+[Info]  2022-07-30 08:02:18.152  [BRIDGE]CB: Image installing Nougat32 with status of 0 68 %
+[Info]  2022-07-30 08:02:18.254  [BRIDGE]CB: Image installing Nougat32 with status of 0 68 %
+[Info]  2022-07-30 08:02:18.355  [BRIDGE]CB: Image installing Nougat32 with status of 0 69 %
+[Info]  2022-07-30 08:02:18.456  [BRIDGE]CB: Image installing Nougat32 with status of 0 69 %
+[Info]  2022-07-30 08:02:18.559  [BRIDGE]CB: Image installing Nougat32 with status of 0 69 %
+[Info]  2022-07-30 08:02:18.665  [BRIDGE]CB: Image installing Nougat32 with status of 0 69 %
+[Info]  2022-07-30 08:02:18.767  [BRIDGE]CB: Image installing Nougat32 with status of 0 69 %
+[Info]  2022-07-30 08:02:18.869  [BRIDGE]CB: Image installing Nougat32 with status of 0 69 %
+[Info]  2022-07-30 08:02:18.971  [BRIDGE]CB: Image installing Nougat32 with status of 0 70 %
+[Info]  2022-07-30 08:02:19.072  [BRIDGE]CB: Image installing Nougat32 with status of 0 70 %
+[Info]  2022-07-30 08:02:19.180  [BRIDGE]CB: Image installing Nougat32 with status of 0 70 %
+[Info]  2022-07-30 08:02:19.277  [BRIDGE]CB: Image installing Nougat32 with status of 0 70 %
+[Info]  2022-07-30 08:02:19.377  [BRIDGE]CB: Image installing Nougat32 with status of 0 70 %
+[Info]  2022-07-30 08:02:19.479  [BRIDGE]CB: Image installing Nougat32 with status of 0 70 %
+[Info]  2022-07-30 08:02:19.587  [BRIDGE]CB: Image installing Nougat32 with status of 0 70 %
+[Info]  2022-07-30 08:02:19.708  [BRIDGE]CB: Image installing Nougat32 with status of 0 71 %
+[Info]  2022-07-30 08:02:19.809  [BRIDGE]CB: Image installing Nougat32 with status of 0 71 %
+[Info]  2022-07-30 08:02:19.925  [BRIDGE]CB: Image installing Nougat32 with status of 0 71 %
+[Info]  2022-07-30 08:02:20.052  [BRIDGE]CB: Image installing Nougat32 with status of 0 71 %
+[Info]  2022-07-30 08:02:20.189  [BRIDGE]CB: Image installing Nougat32 with status of 0 71 %
+[Info]  2022-07-30 08:02:20.289  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:20.411  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:20.583  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:20.686  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:20.788  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:20.888  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:20.992  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:21.105  [BRIDGE]CB: Image installing Nougat32 with status of 0 72 %
+[Info]  2022-07-30 08:02:21.205  [BRIDGE]CB: Image installing Nougat32 with status of 0 73 %
+[Info]  2022-07-30 08:02:21.306  [BRIDGE]CB: Image installing Nougat32 with status of 0 73 %
+[Info]  2022-07-30 08:02:21.407  [BRIDGE]CB: Image installing Nougat32 with status of 0 73 %
+[Info]  2022-07-30 08:02:21.510  [BRIDGE]CB: Image installing Nougat32 with status of 0 73 %
+[Info]  2022-07-30 08:02:21.630  [BRIDGE]CB: Image installing Nougat32 with status of 0 73 %
+[Info]  2022-07-30 08:02:21.745  [BRIDGE]CB: Image installing Nougat32 with status of 0 74 %
+[Info]  2022-07-30 08:02:21.846  [BRIDGE]CB: Image installing Nougat32 with status of 0 74 %
+[Info]  2022-07-30 08:02:21.948  [BRIDGE]CB: Image installing Nougat32 with status of 0 74 %
+[Info]  2022-07-30 08:02:22.053  [BRIDGE]CB: Image installing Nougat32 with status of 0 74 %
+[Info]  2022-07-30 08:02:22.160  [BRIDGE]CB: Image installing Nougat32 with status of 0 74 %
+[Info]  2022-07-30 08:02:22.261  [BRIDGE]CB: Image installing Nougat32 with status of 0 74 %
+[Info]  2022-07-30 08:02:22.366  [BRIDGE]CB: Image installing Nougat32 with status of 0 74 %
+[Info]  2022-07-30 08:02:22.467  [BRIDGE]CB: Image installing Nougat32 with status of 0 75 %
+[Info]  2022-07-30 08:02:22.585  [BRIDGE]CB: Image installing Nougat32 with status of 0 75 %
+[Info]  2022-07-30 08:02:22.687  [BRIDGE]CB: Image installing Nougat32 with status of 0 75 %
+[Info]  2022-07-30 08:02:22.788  [BRIDGE]CB: Image installing Nougat32 with status of 0 75 %
+[Info]  2022-07-30 08:02:22.894  [BRIDGE]CB: Image installing Nougat32 with status of 0 75 %
+[Info]  2022-07-30 08:02:23.004  [BRIDGE]CB: Image installing Nougat32 with status of 0 75 %
+[Info]  2022-07-30 08:02:23.104  [BRIDGE]CB: Image installing Nougat32 with status of 0 76 %
+[Info]  2022-07-30 08:02:23.224  [BRIDGE]CB: Image installing Nougat32 with status of 0 76 %
+[Info]  2022-07-30 08:02:23.324  [BRIDGE]CB: Image installing Nougat32 with status of 0 76 %
+[Info]  2022-07-30 08:02:23.430  [BRIDGE]CB: Image installing Nougat32 with status of 0 76 %
+[Info]  2022-07-30 08:02:23.529  [BRIDGE]CB: Image installing Nougat32 with status of 0 76 %
+[Info]  2022-07-30 08:02:23.630  [BRIDGE]CB: Image installing Nougat32 with status of 0 76 %
+[Info]  2022-07-30 08:02:23.735  [BRIDGE]CB: Image installing Nougat32 with status of 0 77 %
+[Info]  2022-07-30 08:02:23.838  [BRIDGE]CB: Image installing Nougat32 with status of 0 77 %
+[Info]  2022-07-30 08:02:23.970  [BRIDGE]CB: Image installing Nougat32 with status of 0 77 %
+[Info]  2022-07-30 08:02:24.071  [BRIDGE]CB: Image installing Nougat32 with status of 0 77 %
+[Info]  2022-07-30 08:02:24.171  [BRIDGE]CB: Image installing Nougat32 with status of 0 77 %
+[Info]  2022-07-30 08:02:24.300  [BRIDGE]CB: Image installing Nougat32 with status of 0 77 %
+[Info]  2022-07-30 08:02:24.404  [BRIDGE]CB: Image installing Nougat32 with status of 0 78 %
+[Info]  2022-07-30 08:02:24.504  [BRIDGE]CB: Image installing Nougat32 with status of 0 78 %
+[Info]  2022-07-30 08:02:24.605  [BRIDGE]CB: Image installing Nougat32 with status of 0 78 %
+[Info]  2022-07-30 08:02:24.937  [BRIDGE]CB: Image installing Nougat32 with status of 0 78 %
+[Info]  2022-07-30 08:02:25.073  [BRIDGE]CB: Image installing Nougat32 with status of 0 78 %
+[Info]  2022-07-30 08:02:25.173  [BRIDGE]CB: Image installing Nougat32 with status of 0 79 %
+[Info]  2022-07-30 08:02:25.273  [BRIDGE]CB: Image installing Nougat32 with status of 0 79 %
+[Info]  2022-07-30 08:02:25.392  [BRIDGE]CB: Image installing Nougat32 with status of 0 79 %
+[Info]  2022-07-30 08:02:25.503  [BRIDGE]CB: Image installing Nougat32 with status of 0 79 %
+[Info]  2022-07-30 08:02:25.605  [BRIDGE]CB: Image installing Nougat32 with status of 0 79 %
+[Info]  2022-07-30 08:02:25.965  [BRIDGE]CB: Image installing Nougat32 with status of 0 79 %
+[Info]  2022-07-30 08:02:26.068  [BRIDGE]CB: Image installing Nougat32 with status of 0 79 %
+[Info]  2022-07-30 08:02:26.168  [BRIDGE]CB: Image installing Nougat32 with status of 0 80 %
+[Info]  2022-07-30 08:02:26.302  [BRIDGE]CB: Image installing Nougat32 with status of 0 80 %
+[Info]  2022-07-30 08:02:26.405  [BRIDGE]CB: Image installing Nougat32 with status of 0 80 %
+[Info]  2022-07-30 08:02:26.517  [BRIDGE]CB: Image installing Nougat32 with status of 0 80 %
+[Info]  2022-07-30 08:02:26.630  [BRIDGE]CB: Image installing Nougat32 with status of 0 80 %
+[Info]  2022-07-30 08:02:26.744  [BRIDGE]CB: Image installing Nougat32 with status of 0 80 %
+[Info]  2022-07-30 08:02:26.845  [BRIDGE]CB: Image installing Nougat32 with status of 0 81 %
+[Info]  2022-07-30 08:02:26.946  [BRIDGE]CB: Image installing Nougat32 with status of 0 81 %
+[Info]  2022-07-30 08:02:27.045  [BRIDGE]CB: Image installing Nougat32 with status of 0 81 %
+[Info]  2022-07-30 08:02:27.150  [BRIDGE]CB: Image installing Nougat32 with status of 0 81 %
+[Info]  2022-07-30 08:02:27.252  [BRIDGE]CB: Image installing Nougat32 with status of 0 81 %
+[Info]  2022-07-30 08:02:27.354  [BRIDGE]CB: Image installing Nougat32 with status of 0 81 %
+[Info]  2022-07-30 08:02:27.473  [BRIDGE]CB: Image installing Nougat32 with status of 0 82 %
+[Info]  2022-07-30 08:02:27.602  [BRIDGE]CB: Image installing Nougat32 with status of 0 82 %
+[Info]  2022-07-30 08:02:27.747  [BRIDGE]CB: Image installing Nougat32 with status of 0 82 %
+[Info]  2022-07-30 08:02:27.973  [BRIDGE]CB: Image installing Nougat32 with status of 0 82 %
+[Info]  2022-07-30 08:02:28.075  [BRIDGE]CB: Image installing Nougat32 with status of 0 82 %
+[Info]  2022-07-30 08:02:28.196  [BRIDGE]CB: Image installing Nougat32 with status of 0 82 %
+[Info]  2022-07-30 08:02:28.304  [BRIDGE]CB: Image installing Nougat32 with status of 0 82 %
+[Info]  2022-07-30 08:02:28.412  [BRIDGE]CB: Image installing Nougat32 with status of 0 83 %
+[Info]  2022-07-30 08:02:28.640  [BRIDGE]CB: Image installing Nougat32 with status of 0 83 %
+[Info]  2022-07-30 08:02:28.743  [BRIDGE]CB: Image installing Nougat32 with status of 0 83 %
+[Info]  2022-07-30 08:02:28.844  [BRIDGE]CB: Image installing Nougat32 with status of 0 83 %
+[Info]  2022-07-30 08:02:28.945  [BRIDGE]CB: Image installing Nougat32 with status of 0 83 %
+[Info]  2022-07-30 08:02:29.072  [BRIDGE]CB: Image installing Nougat32 with status of 0 83 %
+[Info]  2022-07-30 08:02:29.173  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:29.280  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:29.505  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:29.633  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:29.733  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:29.872  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:29.996  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:30.143  [BRIDGE]CB: Image installing Nougat32 with status of 0 84 %
+[Info]  2022-07-30 08:02:30.250  [BRIDGE]CB: Image installing Nougat32 with status of 0 85 %
+[Info]  2022-07-30 08:02:30.350  [BRIDGE]CB: Image installing Nougat32 with status of 0 85 %
+[Info]  2022-07-30 08:02:30.452  [BRIDGE]CB: Image installing Nougat32 with status of 0 85 %
+[Info]  2022-07-30 08:02:30.573  [BRIDGE]CB: Image installing Nougat32 with status of 0 85 %
+[Info]  2022-07-30 08:02:30.692  [BRIDGE]CB: Image installing Nougat32 with status of 0 85 %
+[Info]  2022-07-30 08:02:30.857  [BRIDGE]CB: Image installing Nougat32 with status of 0 86 %
+[Info]  2022-07-30 08:02:30.976  [BRIDGE]CB: Image installing Nougat32 with status of 0 86 %
+[Info]  2022-07-30 08:02:31.076  [BRIDGE]CB: Image installing Nougat32 with status of 0 86 %
+[Info]  2022-07-30 08:02:31.192  [BRIDGE]CB: Image installing Nougat32 with status of 0 86 %
+[Info]  2022-07-30 08:02:31.294  [BRIDGE]CB: Image installing Nougat32 with status of 0 86 %
+[Info]  2022-07-30 08:02:31.394  [BRIDGE]CB: Image installing Nougat32 with status of 0 87 %
+[Info]  2022-07-30 08:02:31.527  [BRIDGE]CB: Image installing Nougat32 with status of 0 87 %
+[Info]  2022-07-30 08:02:31.627  [BRIDGE]CB: Image installing Nougat32 with status of 0 87 %
+[Info]  2022-07-30 08:02:31.727  [BRIDGE]CB: Image installing Nougat32 with status of 0 87 %
+[Info]  2022-07-30 08:02:31.832  [BRIDGE]CB: Image installing Nougat32 with status of 0 87 %
+[Info]  2022-07-30 08:02:31.934  [BRIDGE]CB: Image installing Nougat32 with status of 0 87 %
+[Info]  2022-07-30 08:02:32.037  [BRIDGE]CB: Image installing Nougat32 with status of 0 88 %
+[Info]  2022-07-30 08:02:32.160  [BRIDGE]CB: Image installing Nougat32 with status of 0 88 %
+[Info]  2022-07-30 08:02:32.261  [BRIDGE]CB: Image installing Nougat32 with status of 0 88 %
+[Info]  2022-07-30 08:02:32.383  [BRIDGE]CB: Image installing Nougat32 with status of 0 88 %
+[Info]  2022-07-30 08:02:32.483  [BRIDGE]CB: Image installing Nougat32 with status of 0 88 %
+[Info]  2022-07-30 08:02:32.601  [BRIDGE]CB: Image installing Nougat32 with status of 0 88 %
+[Info]  2022-07-30 08:02:32.731  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:32.888  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:32.990  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:33.092  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:33.192  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:33.305  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:33.406  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:33.507  [BRIDGE]CB: Image installing Nougat32 with status of 0 89 %
+[Info]  2022-07-30 08:02:33.619  [BRIDGE]CB: Image installing Nougat32 with status of 0 90 %
+[Info]  2022-07-30 08:02:33.721  [BRIDGE]CB: Image installing Nougat32 with status of 0 90 %
+[Info]  2022-07-30 08:02:33.821  [BRIDGE]CB: Image installing Nougat32 with status of 0 90 %
+[Info]  2022-07-30 08:02:33.922  [BRIDGE]CB: Image installing Nougat32 with status of 0 90 %
+[Info]  2022-07-30 08:02:34.022  [BRIDGE]CB: Image installing Nougat32 with status of 0 90 %
+[Info]  2022-07-30 08:02:34.128  [BRIDGE]CB: Image installing Nougat32 with status of 0 90 %
+[Info]  2022-07-30 08:02:34.264  [BRIDGE]CB: Image installing Nougat32 with status of 0 91 %
+[Info]  2022-07-30 08:02:34.365  [BRIDGE]CB: Image installing Nougat32 with status of 0 91 %
+[Info]  2022-07-30 08:02:34.464  [BRIDGE]CB: Image installing Nougat32 with status of 0 91 %
+[Info]  2022-07-30 08:02:34.735  [BRIDGE]CB: Image installing Nougat32 with status of 0 91 %
+[Info]  2022-07-30 08:02:34.860  [BRIDGE]CB: Image installing Nougat32 with status of 0 91 %
+[Info]  2022-07-30 08:02:34.976  [BRIDGE]CB: Image installing Nougat32 with status of 0 91 %
+[Info]  2022-07-30 08:02:35.076  [BRIDGE]CB: Image installing Nougat32 with status of 0 92 %
+[Info]  2022-07-30 08:02:35.190  [BRIDGE]CB: Image installing Nougat32 with status of 0 92 %
+[Info]  2022-07-30 08:02:35.313  [BRIDGE]CB: Image installing Nougat32 with status of 0 92 %
+[Info]  2022-07-30 08:02:35.415  [BRIDGE]CB: Image installing Nougat32 with status of 0 92 %
+[Info]  2022-07-30 08:02:35.563  [BRIDGE]CB: Image installing Nougat32 with status of 0 92 %
+[Info]  2022-07-30 08:02:35.908  [BRIDGE]CB: Image installing Nougat32 with status of 0 92 %
+[Info]  2022-07-30 08:02:36.162  [BRIDGE]CB: Image installing Nougat32 with status of 0 92 %
+[Info]  2022-07-30 08:02:36.262  [BRIDGE]CB: Image installing Nougat32 with status of 0 93 %
+[Info]  2022-07-30 08:02:36.364  [BRIDGE]CB: Image installing Nougat32 with status of 0 93 %
+[Info]  2022-07-30 08:02:36.465  [BRIDGE]CB: Image installing Nougat32 with status of 0 93 %
+[Info]  2022-07-30 08:02:36.568  [BRIDGE]CB: Image installing Nougat32 with status of 0 93 %
+[Info]  2022-07-30 08:02:36.678  [BRIDGE]CB: Image installing Nougat32 with status of 0 93 %
+[Info]  2022-07-30 08:02:36.786  [BRIDGE]CB: Image installing Nougat32 with status of 0 93 %
+[Info]  2022-07-30 08:02:36.888  [BRIDGE]CB: Image installing Nougat32 with status of 0 94 %
+[Info]  2022-07-30 08:02:36.990  [BRIDGE]CB: Image installing Nougat32 with status of 0 94 %
+[Info]  2022-07-30 08:02:37.127  [BRIDGE]CB: Image installing Nougat32 with status of 0 94 %
+[Info]  2022-07-30 08:02:37.236  [BRIDGE]CB: Image installing Nougat32 with status of 0 94 %
+[Info]  2022-07-30 08:02:37.336  [BRIDGE]CB: Image installing Nougat32 with status of 0 94 %
+[Info]  2022-07-30 08:02:37.475  [BRIDGE]CB: Image installing Nougat32 with status of 0 94 %
+[Info]  2022-07-30 08:02:37.613  [BRIDGE]CB: Image installing Nougat32 with status of 0 95 %
+[Info]  2022-07-30 08:02:37.714  [BRIDGE]CB: Image installing Nougat32 with status of 0 95 %
+[Info]  2022-07-30 08:02:37.829  [BRIDGE]CB: Image installing Nougat32 with status of 0 95 %
+[Info]  2022-07-30 08:02:37.946  [BRIDGE]CB: Image installing Nougat32 with status of 0 95 %
+[Info]  2022-07-30 08:02:38.074  [BRIDGE]CB: Image installing Nougat32 with status of 0 95 %
+[Info]  2022-07-30 08:02:38.176  [BRIDGE]CB: Image installing Nougat32 with status of 0 96 %
+[Info]  2022-07-30 08:02:38.287  [BRIDGE]CB: Image installing Nougat32 with status of 0 96 %
+[Info]  2022-07-30 08:02:38.390  [BRIDGE]CB: Image installing Nougat32 with status of 0 96 %
+[Info]  2022-07-30 08:02:38.520  [BRIDGE]CB: Image installing Nougat32 with status of 0 96 %
+[Info]  2022-07-30 08:02:38.642  [BRIDGE]CB: Image installing Nougat32 with status of 0 96 %
+[Info]  2022-07-30 08:02:38.758  [BRIDGE]CB: Image installing Nougat32 with status of 0 96 %
+[Info]  2022-07-30 08:02:38.858  [BRIDGE]CB: Image installing Nougat32 with status of 0 97 %
+[Info]  2022-07-30 08:02:38.994  [BRIDGE]CB: Image installing Nougat32 with status of 0 97 %
+[Info]  2022-07-30 08:02:39.118  [BRIDGE]CB: Image installing Nougat32 with status of 0 97 %
+[Info]  2022-07-30 08:02:39.215  [BRIDGE]CB: Image installing Nougat32 with status of 0 97 %
+[Info]  2022-07-30 08:02:39.320  [BRIDGE]CB: Image installing Nougat32 with status of 0 97 %
+[Info]  2022-07-30 08:02:39.429  [BRIDGE]CB: Image installing Nougat32 with status of 0 97 %
+[Info]  2022-07-30 08:02:39.541  [BRIDGE]CB: Image installing Nougat32 with status of 0 98 %
+[Info]  2022-07-30 08:02:39.642  [BRIDGE]CB: Image installing Nougat32 with status of 0 98 %
+[Info]  2022-07-30 08:02:39.764  [BRIDGE]CB: Image installing Nougat32 with status of 0 98 %
+[Info]  2022-07-30 08:02:39.865  [BRIDGE]CB: Image installing Nougat32 with status of 0 98 %
+[Info]  2022-07-30 08:02:39.965  [BRIDGE]CB: Image installing Nougat32 with status of 0 98 %
+[Info]  2022-07-30 08:02:40.325  [BRIDGE]CB: Image installing Nougat32 with status of 0 98 %
+[Info]  2022-07-30 08:02:40.429  [BRIDGE]CB: Image installing Nougat32 with status of 0 99 %
+[Info]  2022-07-30 08:02:40.530  [BRIDGE]CB: Image installing Nougat32 with status of 0 99 %
+[Info]  2022-07-30 08:02:40.643  [BRIDGE]CB: Image installing Nougat32 with status of 0 99 %
+[Info]  2022-07-30 08:02:40.744  [BRIDGE]CB: Image installing Nougat32 with status of 0 99 %
+[Info]  2022-07-30 08:02:40.846  [BRIDGE]CB: Image installing Nougat32 with status of 0 99 %
+[Info]  2022-07-30 08:02:40.946  [BRIDGE]CB: Image installing Nougat32 with status of 0 99 %
+[Info]  2022-07-30 08:02:40.993  [BRIDGE]CB: Image installing Nougat32 with status of 0 100 %
+[Info]  2022-07-30 08:02:40.995  [BRIDGE]CB: Image installing Nougat32 with status of 1 0 %
+[Info]  2022-07-30 08:02:41.085  [STATS]STATS: {cfedaff7-66b7-4f3f-8485-bf5442b06775} -> 200
+[Info]  2022-07-30 08:02:41.085  [STATS]STATS: {85bb50ba-b848-4604-8200-f06860dde3ac} -> 200
+[Info]  2022-07-30 08:02:47.965  [BRIDGE]CB: Instance list updated
+[Info]  2022-07-30 08:02:47.965  Bridge -> Updating instance list
+[Info]  2022-07-30 08:02:47.966  [BRIDGE]CB: Image installing Nougat32 with status of 2 0 %
+[Info]  2022-07-30 08:02:48.129  [STATS]STATS: {fd8a3c3e-ec27-44a2-bee9-5afe4ab28165} -> 200
+[Info]  2022-07-30 08:02:48.132  [STATS]STATS: {ecc83641-0adb-48e9-ab97-d2b0d4ee6737} -> 200
+[Info]  2022-07-30 08:02:52.435  [BRIDGE]Bridge ready. BS5 ready with 5.9.0.1061
+[Info]  2022-07-30 08:02:52.447  [BRIDGE]Bridge ready. BS5 ready with 5.9.0.1061
+[Info]  2022-07-30 08:02:52.447  [BRIDGE]Bridge ready. BS5 ready with 5.9.0.1061
+[Info]  2022-07-30 08:02:52.451  bridgeLaunchApp: instance= "Nougat32" package= "com.android.vending" csid= ""
+[Info]  2022-07-30 08:02:52.466  bridgeLaunchApp: 0
+[Info]  2022-07-30 08:02:52.467  [INSTALL_GAME] Installing game of com.android.vending through GooglePlay
+[Info]  2022-07-30 08:02:52.738  [STATS]STATS: {e636bd68-e467-4ff1-adf1-a902ed852a5e} -> 200
+[Info]  2022-07-30 08:02:52.748  [STATS]STATS: {02054751-3386-479c-8c6c-ca8a457bf57b} -> 200
+[Warn]  2022-07-30 08:04:14.288  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-07-30 08:04:14.290  player url:  ""
+[Info]  2022-07-30 08:04:14.292  [DB] BSX is shutting down, Video is off.
+[Info]  2022-07-30 08:04:14.332  [BRIDGE] Requesting shutdown the instance "Nougat32" ,only in hidden true
+[Info]  2022-07-30 08:04:14.338  [BRIDGE] Requesting shutdown the instance "Nougat64" ,only in hidden true
+[Warn]  2022-07-30 08:04:14.343  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 08:04:14.343  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 08:04:14.345  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 08:04:14.345  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 08:04:14.346  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 08:04:14.347  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 08:04:14.347  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2022-07-30 08:04:14.348  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-07-30 08:04:14.710  [STATS]STATS: {6e2f414c-4239-41ee-a23e-d5f0ec5d2c55} -> 200
+[Warn]  2022-07-30 08:04:14.760  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.765  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.772  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.778  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.784  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.791  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.797  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.802  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.809  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.818  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.829  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.839  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.847  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.855  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.863  QObject::~QObject: Timers cannot be stopped from another thread
+[Warn]  2022-07-30 08:04:14.870  QObject::~QObject: Timers cannot be stopped from another thread
+[Info]  2022-07-30 08:04:15.322  [STATS]Data sent total: 11 , S = 11 , F = 0
+[Warn]  2022-07-30 08:04:15.480  Release of profile requested but WebEnginePage still not deleted. Expect troubles !

@@ -1,0 +1,88 @@
+Sun May 15 12:06:19 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Sun May 15 20:13:30 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Sun May 15 20:15:54 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Sat May 21 19:04:52 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Sat May 21 22:29:36 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Sun May 22 07:38:37 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Sun May 22 11:11:12 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Sun May 22 12:08:43 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Tue May 24 21:28:22 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Wed May 25 18:01:10 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED
+Wed May 25 20:42:50 2022 : 
+ - CoInitialize --> SUCCEEDED
+ - GetThreadMgr can fail --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfThreadMgrEx --> SUCCEEDED
+ - ThreadMgrEx ActivateEx TF_TMAE_UIELEMENTENABLEDONLY --> SUCCEEDED
+ - ThreadMgr QueryInterface IID_ITfUIElementMgr --> SUCCEEDED
+ - ThreadMgrEx QueryInterface IID_ITfSource --> SUCCEEDED
+ - AdviseSink ITfUIElementSink --> SUCCEEDED

@@ -1,0 +1,2 @@
+sqlpatch invocation with log directory C:\Users\jzamo\AppData\Local\Temp\homes\OraDB21Home1\cfgtoollogs\sqlpatch\sqlpatch_70784_2022_07_28_20_38_24
+sqlpatch invocation with log directory C:\Users\jzamo\AppData\Local\Temp\homes\OraDB21Home1\cfgtoollogs\sqlpatch\sqlpatch_73444_2022_07_28_20_42_47
